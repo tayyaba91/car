@@ -1,0 +1,51 @@
+/**
+ * Metabox Tabs
+ */
+ul.metabox-tabs {
+display: none;
+margin-top: 12px;
+margin-bottom: 13px;
+}
+.metabox-tabs-div ul {
+list-style: none;
+}
+.metabox-tabs li {
+display: inline;
+}
+ul.metabox-tabs li.active {
+border-style: solid solid none;
+border-width: 1px 1px 0;
+border-color: lightgray;
+}
+ul.metabox-tabs li {
+padding: 15px;
+-moz-border-radius: 3px 3px 0 0;
+-webkit-border-top-left-radius: 3px;
+-webkit-border-top-right-radius: 3px;
+-khtml-border-top-left-radius: 3px;
+-khtml-border-top-right-radius: 3px;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+}
+.metabox-tabs a {
+text-decoration: none;
+font-size: 25px;
+}
+.metabox-tabs a:focus {
+border: 0px solid white;
+}
+
+.metabox-tabs-div div.tabs-panel {
+overflow: auto;
+padding: 0.5em 0.9em;
+border-style: solid;
+border-width: 1px;
+}
+.heading {
+padding-left:10px;
+}
+.tab-content{
+overflow: auto;
+padding: 0.5em 0.9em;
+border: 1px solid lightgray;
+}

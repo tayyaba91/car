@@ -1,0 +1,1190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Dealer\n"
+"POT-Creation-Date: 2019-10-07 12:08+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_x;_nx;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cardealer.php:42 includes/templates/template-functions.php:124
+#: includes/templates/template-showroom.php:114
+#: includes/templates/template-showroom1.php:126
+#: includes/templates/template-showroom2.php:262
+#: includes/templates/template-showroom3.php:276
+msgid "HP"
+msgstr "HP"
+
+#: cardealer.php:43 includes/templates/template-functions.php:129
+#: includes/templates/template-showroom.php:116
+#: includes/templates/template-showroom1.php:128
+#: includes/templates/template-showroom2.php:264
+#: includes/templates/template-showroom3.php:278
+msgid "KW"
+msgstr ""
+
+#: cardealer.php:231
+#, fuzzy
+#| msgid "Field Types"
+msgid "Body Type"
+msgstr "Veld types"
+
+#: cardealer.php:232 includes/post-type/meta-box.php:49
+#: includes/post-type/meta-box.php:50
+#, fuzzy
+#| msgid "Position:"
+msgid "Condition"
+msgstr "Positie"
+
+#: dashboard/main.php:117
+#, fuzzy
+#| msgid "Field Types"
+msgid "Fields Table"
+msgstr "Veld types"
+
+#: dashboard/main.php:118
+msgid "Cars Table"
+msgstr ""
+
+#: dashboard/main.php:119 includes/help/help.php:279
+#: includes/post-type/post-functions.php:48
+msgid "Makes"
+msgstr "Merken"
+
+#: dashboard/main.php:120 includes/post-type/post-functions.php:101
+#, fuzzy
+#| msgid "Location"
+msgid "Locations"
+msgstr "Locatie"
+
+#: dashboard/main.php:121 includes/help/help.php:269
+#: includes/post-type/post-functions.php:75
+msgid "Team"
+msgstr "Team"
+
+#: dashboard/main.php:122
+msgid "Settings"
+msgstr ""
+
+#: dashboard/memory.php:28
+#, fuzzy
+#| msgid "Update team"
+msgid "Update"
+msgstr "Update team"
+
+#: dashboard/memory.php:29 includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: includes/contact-form/multi-contact-show-form.php:22
+msgid "Request Information"
+msgstr "Info aanvraag"
+
+#: includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr "Mijn naam"
+
+#: includes/contact-form/multi-contact-show-form.php:29
+msgid "Please type your name"
+msgstr "Voer uw naam in aub!"
+
+#: includes/contact-form/multi-contact-show-form.php:32
+msgid "Your Email"
+msgstr "Uw email"
+
+#: includes/contact-form/multi-contact-show-form.php:35
+msgid "Please type your email"
+msgstr "Voer uw email in aub!"
+
+#: includes/contact-form/multi-contact-show-form.php:39
+msgid "Your Message"
+msgstr "Uw bericht"
+
+#: includes/contact-form/multi-contact-show-form.php:41
+msgid "Please type your message"
+msgstr "Voer uw bericht in aub!"
+
+#: includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "Verzenden"
+
+#: includes/contact-form/multi-contact-show-form.php:53
+msgid "Sending your message. Please wait..."
+msgstr "Wij versturen nu uw bericht..."
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Dank u wel voor uw bericht."
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "There was a problem sending your message. Please try again."
+msgstr "Er is een probleem met het verzenden van uw bericht."
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "Please enter one valid email address."
+msgstr "Vul een geldig email adres in!"
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please complete all the fields in the form before sending."
+msgstr "Vul aub alle velden in op het formulier"
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Name Error. Use only alpha."
+msgstr "Naam error"
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr "Bericht error"
+
+#: includes/feedback/activated-manager.php:137
+#: includes/feedback/feedback-last.php:104
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr "Hallo, mijn naam is Bill Minozzi en ik ben ontwikkelaar van"
+
+#: includes/feedback/activated-manager.php:146
+#: includes/feedback/feedback-last.php:111
+msgid "Thank You!"
+msgstr "Dank u"
+
+#: includes/feedback/activated-manager.php:149
+msgid "Yes, Submit"
+msgstr "Ja, indienen"
+
+#: includes/feedback/activated-manager.php:151
+msgid "Skip"
+msgstr "Overslaan"
+
+#: includes/feedback/feedback-last.php:103
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr "Als u even tijd heeft, laat ons u dan weten en waarom u de-activeren."
+
+#: includes/feedback/feedback-last.php:109
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr "Kunt u ook aangeven wat we moeten verbeteren zodat we u kunnen helpen"
+
+#: includes/feedback/feedback-last.php:113
+msgid "type here yours sugestions ..."
+msgstr "Vertel hier uw verbeterpunten"
+
+#: includes/feedback/feedback-last.php:115
+msgid "(In this case, we are unable to email you)"
+msgstr "(In dit geval kunnen we u geen e-mail sturen)"
+
+#: includes/feedback/feedback-last.php:117
+msgid "Yes, Submit and Deactivate"
+msgstr "Ja, verzenden en deactiveren"
+
+#: includes/feedback/feedback-last.php:119
+msgid "Cancel Deactivation"
+msgstr "Annuleer deactivatie"
+
+#: includes/feedback/feedback-last.php:120
+msgid "No, Just Deactivate it"
+msgstr "Nee, gewoon deactiveren"
+
+#: includes/feedback/feedback.php:139
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#: includes/feedback/feedback.php:143
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr "Hallo, mijn naam is Bill Minozzi en ik ben ontwikkelaar van"
+
+#: includes/feedback/feedback.php:146
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+"Als je dit product leuk vindt, schrijf er dan een paar woorden over. Het zal "
+"anderen helpen deze handige plug-in sneller te vinden. <br> <b> Bedankt! </ "
+"B>"
+
+#: includes/feedback/feedback.php:148
+msgid "Rate or Share"
+msgstr "Beoordeel of deel"
+
+#: includes/feedback/feedback.php:149
+msgid "No, dismiss"
+msgstr "Nee, ontslag"
+
+#: includes/feedback/feedback.php:150
+msgid "or"
+msgstr "of"
+
+#: includes/feedback/feedback.php:151
+msgid "Remind me later"
+msgstr "Herinner mij later"
+
+#: includes/functions/functions.php:204
+msgid "Coupe"
+msgstr "Coupe"
+
+#: includes/functions/functions.php:205
+msgid "Luxury Car"
+msgstr "Luxe auto"
+
+#: includes/functions/functions.php:206
+msgid "Sedan"
+msgstr "Sedan"
+
+#: includes/functions/functions.php:207
+msgid "Sports Car"
+msgstr "Sport auto"
+
+#: includes/functions/functions.php:208
+msgid "Sport Utility Vehicle"
+msgstr "SUV"
+
+#: includes/functions/functions.php:209
+msgid "Van"
+msgstr "Bus"
+
+#: includes/functions/functions.php:210
+msgid "Wagon"
+msgstr "Wagon"
+
+#: includes/functions/functions.php:211 includes/post-type/meta-box.php:82
+#: includes/search/search-function.php:195
+#: includes/search/search-function.php:196
+msgid "Other"
+msgstr "Anders"
+
+#: includes/functions/functions.php:608 includes/functions/functions.php:620
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Breid standaard plugin functionaliteit uit met nieuwe"
+
+#: includes/functions/functions.php:614 includes/functions/functions.php:626
+#: includes/functions/functions.php:632
+msgid "Make Your Website Look More Professional."
+msgstr "Laat uw website professioneel uitzien"
+
+#: includes/functions/functions.php:634
+msgid "It is time to upgrade your"
+msgstr "Het is tijd om te upgraden"
+
+#: includes/functions/functions.php:737
+msgid "Close notice"
+msgstr "Sluit bericht"
+
+#: includes/functions/functions.php:748
+msgid "to"
+msgstr "Aan"
+
+#: includes/functions/functions.php:752
+msgid "version!"
+msgstr "Versie"
+
+#: includes/functions/functions.php:760
+msgid "Learn More"
+msgstr "Lees meer"
+
+#: includes/functions/functions.php:764
+msgid "Dismiss"
+msgstr "Afwijzen"
+
+#: includes/functions/functions.php:814
+msgid "Dashboard"
+msgstr ""
+
+#: includes/functions/functions.php:832
+msgid "Go Pro"
+msgstr ""
+
+#: includes/functions/health.php:49
+msgid "My Memory Test"
+msgstr ""
+
+#: includes/functions/health.php:64 includes/functions/health_permalink.php:36
+msgid "Critical"
+msgstr ""
+
+#: includes/functions/health.php:69
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr ""
+
+#: includes/functions/health.php:72
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+
+#: includes/functions/health.php:77
+msgid "WordPress Help Page"
+msgstr ""
+
+#: includes/functions/health_permalink.php:16
+msgid "Wrong Permalink"
+msgstr ""
+
+#: includes/functions/health_permalink.php:41
+msgid "Wrong Permalink Settings"
+msgstr ""
+
+#: includes/functions/health_permalink.php:44
+msgid ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name "
+"(check)\n"
+"                     Then, click Save Changes."
+msgstr ""
+
+#: includes/help/help.php:74 includes/help/help.php:148
+#: includes/help/help.php:264 includes/help/help.php:306
+#: includes/help/help.php:325 includes/help/help.php:348
+msgid "Overview"
+msgstr "Overzicht"
+
+#: includes/help/help.php:79
+msgid "Import Demo Data"
+msgstr "Import demo data"
+
+#: includes/help/help.php:153
+msgid "Field Types"
+msgstr "Veld types"
+
+#: includes/help/help.php:158
+msgid "Add Fields Form"
+msgstr "Voeg velden toe"
+
+#: includes/help/help.php:163
+msgid "Edit and Trash Fields"
+msgstr "Bewerken en prullenbak velden"
+
+#: includes/help/help.php:274 includes/templates/template-functions.php:178
+msgid "Location"
+msgstr "Locatie"
+
+#: includes/help/help.php:284
+msgid "Edit and Trash Cars"
+msgstr "Bewerken en prullenbak auto s"
+
+#: includes/help/help.php:289 includes/post-type/post-functions.php:408
+msgid "Featured Image"
+msgstr "Uitgelichte afbeelding"
+
+#: includes/help/help.php:294
+msgid "Images and Gallery"
+msgstr "Afbeeldingen en Gallerij"
+
+#: includes/multi/multi-functions.php:12
+#, fuzzy
+#| msgid "Search cars"
+msgid "Search Fields"
+msgstr "Zoek auto s"
+
+#: includes/multi/multi-functions.php:27
+#, fuzzy
+#| msgid "Order:"
+msgid "Order"
+msgstr "Bestel"
+
+#: includes/multi/multi-functions.php:28
+msgid "Type Field"
+msgstr ""
+
+#: includes/multi/multi-functions.php:29
+#, fuzzy
+#| msgid "Label Color"
+msgid "Label"
+msgstr "Label kleur"
+
+#: includes/multi/multi-functions.php:30
+#, fuzzy
+#| msgid "Search cars"
+msgid "Search Bar"
+msgstr "Zoek auto s"
+
+#: includes/multi/multi-functions.php:31
+msgid "Widget"
+msgstr ""
+
+#: includes/post-type/meta-box.php:5
+#, fuzzy
+#| msgid "The amount of "
+msgid "The amount of Km"
+msgstr "Voor een bedrag van"
+
+#: includes/post-type/meta-box.php:7
+#, fuzzy
+#| msgid "The amount of "
+msgid "The amount of Miles"
+msgstr "Voor een bedrag van"
+
+#: includes/post-type/meta-box.php:8 includes/post-type/meta-box.php:12
+#, fuzzy
+#| msgid "Engine HP. Only numbers, no point, no comma."
+msgid "Only numbers, no point, no comma."
+msgstr "Motor HP. Alleen cijfers, geen punt, geen komma"
+
+#: includes/post-type/meta-box.php:10
+msgid "Engine"
+msgstr ""
+
+#: includes/post-type/meta-box.php:18 includes/post-type/post-functions.php:409
+#, fuzzy
+#| msgid "Features"
+msgid "Featured"
+msgstr "Opties"
+
+#: includes/post-type/meta-box.php:19
+msgid "Mark to show up at Featured Widget."
+msgstr "Markeer deze voor uitgelichte widget"
+
+#: includes/post-type/meta-box.php:23 includes/post-type/post-functions.php:407
+#: includes/search/search-function.php:377
+msgid "Price"
+msgstr "Prijs"
+
+#: includes/post-type/meta-box.php:24
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Geen speciale karrakters toegestaan (\"$\" \",\" \".\") de plugin zal "
+"automatisch aanpassen"
+
+#: includes/post-type/meta-box.php:30 includes/post-type/post-functions.php:410
+#: includes/search/search-function.php:104
+#: includes/templates/template-functions.php:165
+#: includes/templates/template-showroom.php:118
+#: includes/templates/template-showroom2.php:269
+#: includes/widgets/widgets.php:72 includes/widgets/widgets.php:155
+msgid "Year"
+msgstr "Jaar"
+
+#: includes/post-type/meta-box.php:31
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Het jaar van het product. Alleen cijfers, geen punt, geen komma."
+
+#: includes/post-type/meta-box.php:54
+msgid "New"
+msgstr "Nieuw"
+
+#: includes/post-type/meta-box.php:55
+msgid "Used"
+msgstr "Gebruikt"
+
+#: includes/post-type/meta-box.php:56
+msgid "Damaged"
+msgstr "Beschadigd"
+
+#: includes/post-type/meta-box.php:61 includes/search/search-function.php:137
+#: includes/templates/template-functions.php:115
+#: includes/templates/template-showroom.php:120
+#: includes/templates/template-showroom2.php:271
+msgid "Transmission"
+msgstr "Transmissie?"
+
+#: includes/post-type/meta-box.php:62
+msgid "What kind of Transmission is this"
+msgstr "Transmissie?"
+
+#: includes/post-type/meta-box.php:66 includes/search/search-function.php:144
+#: includes/search/search-function.php:145
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: includes/post-type/meta-box.php:67 includes/search/search-function.php:147
+#: includes/search/search-function.php:148
+msgid "Manual"
+msgstr "Schakel"
+
+#: includes/post-type/meta-box.php:68 includes/search/search-function.php:150
+#: includes/search/search-function.php:151
+msgid "Tiptronic"
+msgstr "Tiptronic"
+
+#: includes/post-type/meta-box.php:70 includes/post-type/meta-box.php:71
+msgid "Fuel Type."
+msgstr "Benzine type"
+
+#: includes/post-type/meta-box.php:75 includes/search/search-function.php:174
+#: includes/search/search-function.php:175
+msgid "Diesel"
+msgstr "Diesel"
+
+#: includes/post-type/meta-box.php:76 includes/search/search-function.php:177
+#: includes/search/search-function.php:178
+msgid "Gasoline"
+msgstr "Normaal Euro95"
+
+#: includes/post-type/meta-box.php:77 includes/search/search-function.php:180
+#: includes/search/search-function.php:181
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: includes/post-type/meta-box.php:78 includes/search/search-function.php:183
+#: includes/search/search-function.php:184
+msgid "Electric"
+msgstr "Elektrisch"
+
+#: includes/post-type/meta-box.php:79 includes/search/search-function.php:186
+#: includes/search/search-function.php:187
+msgid "Biodiesel"
+msgstr "BIO Diesel"
+
+#: includes/post-type/meta-box.php:80 includes/search/search-function.php:190
+msgid "CNG"
+msgstr "CNG"
+
+#: includes/post-type/meta-box.php:81 includes/search/search-function.php:192
+#: includes/search/search-function.php:193
+msgid "Ethanol"
+msgstr "Ethanol"
+
+#: includes/post-type/meta-box.php:183
+#: includes/templates/template-functions.php:12
+msgid "Details"
+msgstr "Details"
+
+#: includes/post-type/meta-box.php:209 includes/post-type/meta-box.php:213
+msgid "Specs"
+msgstr "Specificaties"
+
+#: includes/post-type/meta-box.php:210 includes/post-type/meta-box.php:275
+#: includes/templates/template-functions.php:46
+msgid "Features"
+msgstr "Opties"
+
+#: includes/post-type/meta-box.php:266
+msgid "Add any Feature Field (Settings => Field Features)"
+msgstr "Voeg nieuwe opties veld toe (Settings => Field Features)"
+
+#: includes/post-type/post-functions.php:12
+msgid "Cars"
+msgstr ""
+
+#: includes/post-type/post-functions.php:16
+#, fuzzy
+#| msgid "Edit makes"
+msgid "Edit Cars"
+msgstr "Bewerk merken"
+
+#: includes/post-type/post-functions.php:17
+#, fuzzy
+#| msgid "Search cars"
+msgid "Search Cars"
+msgstr "Zoek auto s"
+
+#: includes/post-type/post-functions.php:50
+#, fuzzy
+#| msgid "Search cars"
+msgid "Search makes"
+msgstr "Zoek auto s"
+
+#: includes/post-type/post-functions.php:52
+#, fuzzy
+#| msgid "New makes"
+msgid "All makes"
+msgstr "Nieuwe merken"
+
+#: includes/post-type/post-functions.php:53
+msgid "Parent makes"
+msgstr "Oudere merken"
+
+#: includes/post-type/post-functions.php:54
+msgid "Parent makes:"
+msgstr "Oudere merken 2"
+
+#: includes/post-type/post-functions.php:55
+msgid "Edit makes"
+msgstr "Bewerk merken"
+
+#: includes/post-type/post-functions.php:56
+msgid "Update makes"
+msgstr "Update merken"
+
+#: includes/post-type/post-functions.php:57
+msgid "Add New makes"
+msgstr "Voeg nieuw merk toe"
+
+#: includes/post-type/post-functions.php:58
+msgid "New makes"
+msgstr "Nieuwe merken"
+
+#: includes/post-type/post-functions.php:59
+msgid "Separate makes with commas"
+msgstr "Scheid merken met een komma"
+
+#: includes/post-type/post-functions.php:60
+msgid "Add or Remove makes"
+msgstr "Voeg toe of delete merk"
+
+#: includes/post-type/post-functions.php:61
+#: includes/post-type/post-functions.php:88
+msgid "Choose from the most used makers"
+msgstr "Kies uit meest gekozen merken"
+
+#: includes/post-type/post-functions.php:77
+#, fuzzy
+#| msgid "Search cars"
+msgid "Search team"
+msgstr "Zoek auto s"
+
+#: includes/post-type/post-functions.php:79
+#, fuzzy
+#| msgid "Team"
+msgid "All Team"
+msgstr "Team"
+
+#: includes/post-type/post-functions.php:80
+msgid "Parent team"
+msgstr "Oudere team"
+
+#: includes/post-type/post-functions.php:81
+msgid "Parent team:"
+msgstr "Oudere team 2"
+
+#: includes/post-type/post-functions.php:82
+msgid "Edit team member"
+msgstr "Bewerk team member"
+
+#: includes/post-type/post-functions.php:83
+msgid "Update team"
+msgstr "Update team"
+
+#: includes/post-type/post-functions.php:84
+msgid "Add New team member"
+msgstr "Voeg nieuw team member toe"
+
+#: includes/post-type/post-functions.php:85
+msgid "New team"
+msgstr "Nieuwe teams"
+
+#: includes/post-type/post-functions.php:86
+msgid "Separate team with commas"
+msgstr "Scheid team met een komma"
+
+#: includes/post-type/post-functions.php:87
+msgid "Add or Remove team"
+msgstr "Voeg toe of delete team"
+
+#: includes/post-type/post-functions.php:103
+#, fuzzy
+#| msgid "Search cars"
+msgid "Search Locations"
+msgstr "Zoek auto s"
+
+#: includes/post-type/post-functions.php:105
+#, fuzzy
+#| msgid "Location"
+msgid "All Locations"
+msgstr "Locatie"
+
+#: includes/post-type/post-functions.php:106
+msgid "Parent locations"
+msgstr "Oudere lokaties"
+
+#: includes/post-type/post-functions.php:107
+msgid "Parent locations:"
+msgstr "Oudere lokaties 2"
+
+#: includes/post-type/post-functions.php:108
+msgid "Edit locations"
+msgstr "Bewerk lokaties"
+
+#: includes/post-type/post-functions.php:109
+msgid "Update locations"
+msgstr "Update lokaties"
+
+#: includes/post-type/post-functions.php:110
+msgid "Add New locations"
+msgstr "Voeg nieuwe locatie toe"
+
+#: includes/post-type/post-functions.php:111
+msgid "New locations"
+msgstr "Nieuwe lokaties"
+
+#: includes/post-type/post-functions.php:112
+msgid "Separate locations with commas"
+msgstr "Scheid lokaties met een komma"
+
+#: includes/post-type/post-functions.php:113
+msgid "Add or Remove locations"
+msgstr "Voeg toe of delete lokaties"
+
+#: includes/post-type/post-functions.php:114
+msgid "Choose from the most used locations"
+msgstr "Kies uit de meest gekozen lokaties"
+
+#: includes/post-type/post-functions.php:131
+#: includes/post-type/post-functions.php:220
+msgid "Order:"
+msgstr "Bestel"
+
+#: includes/post-type/post-functions.php:133
+#: includes/post-type/post-functions.php:223
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+"Bestel om weer te geven. Bijvoorbeeld: 1 (eerste), 2 (tweede) enzovoort ..."
+
+#: includes/post-type/post-functions.php:136
+#: includes/post-type/post-functions.php:228
+msgid "Profile Image:"
+msgstr "Profiel foto"
+
+#: includes/post-type/post-functions.php:141
+#: includes/post-type/post-functions.php:245
+msgid "Just click the Button to Select Upload Image"
+msgstr "Druk op knop om uw foto te uploaden"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:250
+msgid "Position:"
+msgstr "Positie"
+
+#: includes/post-type/post-functions.php:149
+#: includes/post-type/post-functions.php:253
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "Bijvoorbeeld: Sales Manager, Agent, enzovoort ..."
+
+#: includes/post-type/post-functions.php:152
+#: includes/post-type/post-functions.php:258
+msgid "Phone:"
+msgstr "Telefoon"
+
+#: includes/post-type/post-functions.php:156
+#: includes/post-type/post-functions.php:265
+msgid "Email address:"
+msgstr "Email adres"
+
+#: includes/post-type/post-functions.php:160
+#: includes/post-type/post-functions.php:272
+msgid "Skype:"
+msgstr "Skype"
+
+#: includes/post-type/post-functions.php:164
+#: includes/post-type/post-functions.php:279
+msgid "Facebook URL:"
+msgstr "Facebook URL"
+
+#: includes/post-type/post-functions.php:168
+#: includes/post-type/post-functions.php:286
+msgid "Twitter URL:"
+msgstr "Twitter URL"
+
+#: includes/post-type/post-functions.php:172
+#: includes/post-type/post-functions.php:293
+msgid "Linkedin URL:"
+msgstr "Linkedin URL"
+
+#: includes/post-type/post-functions.php:176
+#: includes/post-type/post-functions.php:300
+msgid "Youtube URL:"
+msgstr "Youtube URL"
+
+#: includes/post-type/post-functions.php:180
+#: includes/post-type/post-functions.php:307
+msgid "Instagram URL:"
+msgstr "Instagram URL"
+
+#: includes/post-type/post-functions.php:184
+#: includes/post-type/post-functions.php:314
+msgid "Vimeo URL:"
+msgstr "Vimeo URL"
+
+#: includes/post-type/post-functions.php:436
+msgid "Call For Price"
+msgstr "Bel voor een prijs"
+
+#: includes/search/search-function.php:16
+#: includes/search/search-function.php:403 includes/widgets/widgets.php:202
+msgid "Search"
+msgstr "Zoeken"
+
+#: includes/search/search-function.php:78
+#: includes/templates/template-functions.php:86
+msgid "Make"
+msgstr "Merken"
+
+#: includes/search/search-function.php:86
+#: includes/search/search-function.php:109
+#: includes/search/search-function.php:143
+#: includes/search/search-function.php:173
+#: includes/search/search-function.php:241
+#: includes/search/search-function.php:265
+#: includes/search/search-function.php:286
+#: includes/search/search-function.php:311
+msgid "Any"
+msgstr "Elk"
+
+#: includes/search/search-function.php:167
+#: includes/templates/template-functions.php:116
+#: includes/templates/template-showroom.php:119
+#: includes/templates/template-showroom2.php:270
+msgid "Fuel"
+msgstr "Benzine type"
+
+#: includes/search/search-function.php:304
+msgid "Order By"
+msgstr "Rangschik op"
+
+#: includes/search/search-function.php:313
+msgid "Year newest first"
+msgstr "Dit jaar eerst"
+
+#: includes/search/search-function.php:316
+msgid "Year oldest first"
+msgstr "Oudste jaar eerst"
+
+#: includes/search/search-function.php:319
+msgid "Price higher first"
+msgstr "Hogere prijs eerst"
+
+#: includes/search/search-function.php:322
+msgid "Price lower first"
+msgstr "Lagere prijs eerst"
+
+#: includes/search/search-function.php:325
+msgid "Mileage higher first"
+msgstr "Hoge KM eerst"
+
+#: includes/search/search-function.php:328
+msgid "Mileage lower first"
+msgstr "Lage KM eerst"
+
+#: includes/search/search-function.php:349
+msgid "Price Range"
+msgstr "Prijs range"
+
+#: includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr "Geen team member toegevoegd"
+
+#: includes/templates/template-functions.php:34
+msgid "Yes"
+msgstr ""
+
+#: includes/templates/template-functions.php:36
+#, fuzzy
+#| msgctxt "Nee"
+#| msgid "No"
+msgid "No"
+msgstr "Nee"
+
+#: includes/templates/template-functions.php:92
+#: includes/templates/template-functions.php:104
+msgid "Model"
+msgstr "Model"
+
+#: includes/templates/template-functions.php:118
+msgid "Cond"
+msgstr "Conditie"
+
+#: includes/templates/template-functions.php:162
+#: includes/templates/template-showroom.php:105
+#: includes/templates/template-showroom1.php:117
+#: includes/templates/template-showroom2.php:251
+#: includes/templates/template-showroom3.php:268
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:153
+msgid "Call for Price"
+msgstr "Bel voor een prijs"
+
+#: includes/templates/template-showroom.php:145
+#: includes/templates/template-showroom1.php:181
+#: includes/templates/template-showroom2.php:293
+#: includes/templates/template-showroom3.php:330
+#: includes/templates/template-single.php:37
+msgid "Back"
+msgstr "Terug"
+
+#: includes/templates/template-showroom.php:146
+#: includes/templates/template-showroom1.php:182
+#: includes/templates/template-showroom2.php:294
+#: includes/templates/template-showroom3.php:331
+msgid "Onward"
+msgstr "Volgende"
+
+#: includes/templates/template-showroom.php:156
+#: includes/templates/template-showroom1.php:192
+#: includes/templates/template-showroom2.php:303
+#: includes/templates/template-showroom3.php:340
+msgid "Not Found !"
+msgstr "Niks gevonden helaas :("
+
+#: includes/templates/template-showroom1.php:169
+#: includes/templates/template-showroom3.php:321
+msgid "View"
+msgstr "Bekijk"
+
+#: includes/templates/template-single.php:51
+msgid "Contact Us"
+msgstr "Contacteer ons"
+
+#: includes/widgets/widgets.php:15
+msgid "A list of Recent cars"
+msgstr "Lijst van recente auto s"
+
+#: includes/widgets/widgets.php:41
+msgid "New Arrivals"
+msgstr "Nieuw binnen!!"
+
+#: includes/widgets/widgets.php:93
+msgid "A list of Featured car-s"
+msgstr "Lijst van uitgelichte auto s"
+
+#: includes/widgets/widgets.php:117
+msgid "Featured cars"
+msgstr "Uitgelichte auto s"
+
+#: includes/widgets/widgets.php:177
+msgid "Search cars"
+msgstr "Zoek auto s"
+
+#: includes/widgets/widgets.php:189
+msgid "Title"
+msgstr "Titel"
+
+#: settings/options/plugin_options_tabbed.php:16
+msgid "Choose your currency, metric system and so on."
+msgstr "Kies uw valuta, metrisch systeem, enzovoort."
+
+#: settings/options/plugin_options_tabbed.php:21
+msgid "Currency"
+msgstr "Valuta"
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "Miles - Km"
+msgstr "Miles of KM"
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "Miles"
+msgstr "Miles "
+
+#: settings/options/plugin_options_tabbed.php:43
+msgid "Kms"
+msgstr "KM"
+
+#: settings/options/plugin_options_tabbed.php:44
+msgid "Hours"
+msgstr "Uren"
+
+#: settings/options/plugin_options_tabbed.php:50
+msgid "Liters - Gallons"
+msgstr "Liter of Gallons"
+
+#: settings/options/plugin_options_tabbed.php:52
+msgid "Liters"
+msgstr "Liters"
+
+#: settings/options/plugin_options_tabbed.php:53
+msgid "Gallons"
+msgstr "Gallons"
+
+#: settings/options/plugin_options_tabbed.php:70
+msgid "How many cars would you like to display per page?"
+msgstr "Hoeveel auto s wilt u in het overzicht laten zien?"
+
+#: settings/options/plugin_options_tabbed.php:94
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Delete sidebar van de zoek resultaten pagina"
+
+#: settings/options/plugin_options_tabbed.php:103
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Vervang de WP gallerij met die van Flexslider Gallerie"
+
+#: settings/options/plugin_options_tabbed.php:112
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr "Gebruik thumbnails uiting 2:1 of 4:3"
+
+#: settings/options/plugin_options_tabbed.php:121
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Schakel contact form in op een pagina"
+
+#: settings/options/plugin_options_tabbed.php:130
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual car page."
+msgstr "Vul hier uw contact email adres in om de formulieren te ontvangen"
+
+#: settings/options/plugin_options_tabbed.php:138
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "Gebruik op de Show Room-pagina Gallery of List View Template"
+
+#: settings/options/plugin_options_tabbed.php:150
+msgid "Do you use HP or KW?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:159
+msgid ""
+"Here you can manage the car features/equipments fields to your car form."
+msgstr "Hier kunt u de auto opties bij houden"
+
+#: settings/options/plugin_options_tabbed.php:161
+msgid "Just add one or more field names - one for each line -"
+msgstr "Voeg hier "
+
+#: settings/options/plugin_options_tabbed.php:164
+msgid "For example: GPS, DVD, and so on... "
+msgstr "Bijvoorbeeld: GPS, DVD, enzovoort ... ␣"
+
+#: settings/options/plugin_options_tabbed.php:166
+msgid "Don't use special characters."
+msgstr "Gebruik geen speciale karrakters aub"
+
+#: settings/options/plugin_options_tabbed.php:172
+msgid "Add this fields to Car Form. Only one field each line:"
+msgstr "Voeg deze velden toe aan auto formulier per regel"
+
+#: settings/options/plugin_options_tabbed.php:175
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+"Pas uw zoekopties aan. Kies de velden die moeten worden weergegeven op de "
+"zoekbalk aan de voorzijde."
+
+#: settings/options/plugin_options_tabbed.php:180
+#: settings/options/plugin_options_tabbed.php:237
+#: settings/options/plugin_options_tabbed.php:295
+msgid "Show the Make control"
+msgstr "Toon het merk beheer"
+
+#: settings/options/plugin_options_tabbed.php:189
+#: settings/options/plugin_options_tabbed.php:246
+#: settings/options/plugin_options_tabbed.php:304
+msgid "Show the Fuel type control"
+msgstr "Toon het benzine type beheer"
+
+#: settings/options/plugin_options_tabbed.php:198
+#: settings/options/plugin_options_tabbed.php:255
+#: settings/options/plugin_options_tabbed.php:313
+msgid "Show the Year control"
+msgstr "Toon het jaar beheer"
+
+#: settings/options/plugin_options_tabbed.php:207
+#: settings/options/plugin_options_tabbed.php:273
+#: settings/options/plugin_options_tabbed.php:331
+msgid "Show the Transmission control"
+msgstr "Toon het verzendingsbeheer"
+
+#: settings/options/plugin_options_tabbed.php:216
+msgid "Show the Price slider"
+msgstr "Laat de schuifregelaar voor de prijs zien"
+
+#: settings/options/plugin_options_tabbed.php:225
+#: settings/options/plugin_options_tabbed.php:282
+#: settings/options/plugin_options_tabbed.php:340
+msgid "Show the Order By Control"
+msgstr "Toon de bestelling op basis van controle"
+
+#: settings/options/plugin_options_tabbed.php:232
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Pas uw zoekwidget-opties aan en kies de velden die moeten worden weergeven "
+"op de zoekbalk"
+
+#: settings/options/plugin_options_tabbed.php:264
+#: settings/options/plugin_options_tabbed.php:322
+msgid "Show the Price control"
+msgstr "Laat prijsbeheer zien"
+
+#: settings/options/plugin_options_tabbed.php:353
+msgid "Search Button Background Color"
+msgstr "Zoeken knop achtergrond kleur"
+
+#: settings/options/plugin_options_tabbed.php:358
+msgid "Search Button Color"
+msgstr "Zoeken knop kleur"
+
+#: settings/options/plugin_options_tabbed.php:363
+msgid "Background Color"
+msgstr "Achtergrond tekst kleur"
+
+#: settings/options/plugin_options_tabbed.php:367
+msgid "Foreground Text Color"
+msgstr "Voorgrond tekst kleur"
+
+#: settings/options/plugin_options_tabbed.php:371
+msgid "Label Color"
+msgstr "Label kleur"
+
+#: settings/options/plugin_options_tabbed.php:375
+msgid "Select Border Color"
+msgstr "Selekteer rand kleur"
+
+#: settings/options/plugin_options_tabbed.php:379
+msgid "car Background Page Color"
+msgstr "Auto achtergrond pagina kleur"
+
+#: settings/options/plugin_options_tabbed.php:383
+msgid "car Box Border Color"
+msgstr "Auto Box Randkleur"
+
+#: settings/options/plugin_options_tabbed.php:387
+msgid "Select Title Color"
+msgstr "Selekteer titel kleur"
+
+#: settings/options/plugin_options_tabbed.php:392
+msgid "Single car Page Background Color"
+msgstr "Enkele pagina Tekstkleur achtergrondkleur"
+
+#: settings/options/plugin_options_tabbed.php:396
+msgid "Single car Page Foreground Text Color"
+msgstr "Enkele pagina Tekstkleur voorgrondkleur"
+
+#: settings/options/plugin_options_tabbed.php:400
+msgid "Customized CSS"
+msgstr "Aangepaste CSS"
+
+#~ msgid "The amount of miles on this car . Only numbers, no point, no comma."
+#~ msgstr ""
+#~ "Het aantal mijlen in deze auto. Alleen cijfers, geen punt, geen komma."
+
+#~ msgid "Source-language"
+#~ msgstr "Target-language"
+
+#~ msgctxt " even geduld aub :)"
+#~ msgid "Sending your message. Please wait..."
+#~ msgstr "Wij versturen nu uw bericht"
+
+#~ msgctxt " wij komen snel bij u terug"
+#~ msgid "Thanks for your message! We'll get back to you shortly."
+#~ msgstr "Dank u wel voor uw bericht"
+
+#~ msgctxt " probeer het aub nog een keer"
+#~ msgid "There was a problem sending your message. Please try again."
+#~ msgstr "Er is een probleem met het verzenden van uw bericht"
+
+#~ msgctxt " let us know you and why you are deactivating."
+#~ msgid "If you have a moment"
+#~ msgstr " "
+
+#~ msgctxt " and I am developer of"
+#~ msgid "Hello"
+#~ msgstr " "
+
+#~ msgctxt " no comma."
+#~ msgid "Engine HP. Only numbers"
+#~ msgstr " "
+
+#~ msgctxt "Bestel om weer te geven"
+#~ msgid "Order to display. For example: 1 (first)"
+#~ msgstr " "
+
+#~ msgctxt "Kies uw valuta"
+#~ msgid "Choose your currency"
+#~ msgstr " metric system and so on."
+
+#~ msgctxt " and so on... "
+#~ msgid "For example: GPS"
+#~ msgstr " "

@@ -1,0 +1,1292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cardealer-ru\n"
+"POT-Creation-Date: 2019-10-07 12:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_x;_nx\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: cardealer.php:42 includes/templates/template-functions.php:124
+#: includes/templates/template-showroom.php:114
+#: includes/templates/template-showroom1.php:126
+#: includes/templates/template-showroom2.php:262
+#: includes/templates/template-showroom3.php:276
+msgid "HP"
+msgstr "ËÑ"
+
+#: cardealer.php:43 includes/templates/template-functions.php:129
+#: includes/templates/template-showroom.php:116
+#: includes/templates/template-showroom1.php:128
+#: includes/templates/template-showroom2.php:264
+#: includes/templates/template-showroom3.php:278
+msgid "KW"
+msgstr ""
+
+#: cardealer.php:231
+#, fuzzy
+msgid "Body Type"
+msgstr "âèäû ïîëåé"
+
+#: cardealer.php:232 includes/post-type/meta-box.php:49
+#: includes/post-type/meta-box.php:50
+#, fuzzy
+msgid "Condition"
+msgstr "ïîçèöèÿ"
+
+#: dashboard/main.php:117
+msgid "Fields Table"
+msgstr ""
+
+#: dashboard/main.php:118
+msgid "Cars Table"
+msgstr ""
+
+#: dashboard/main.php:119 includes/help/help.php:279
+#: includes/post-type/post-functions.php:48
+#, fuzzy
+msgid "Makes"
+msgstr "Ìàðêà"
+
+#: dashboard/main.php:120 includes/post-type/post-functions.php:101
+#, fuzzy
+msgid "Locations"
+msgstr "Ìåñòî"
+
+#: dashboard/main.php:121 includes/help/help.php:269
+#: includes/post-type/post-functions.php:75
+msgid "Team"
+msgstr ""
+
+#: dashboard/main.php:122
+msgid "Settings"
+msgstr ""
+
+#: dashboard/memory.php:28
+#, fuzzy
+msgid "Update"
+msgstr "îáíîâèòü êîìàíäó"
+
+#: dashboard/memory.php:29 includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "îòìåíà"
+
+#: includes/contact-form/multi-contact-show-form.php:22
+#, fuzzy
+msgid "Request Information"
+msgstr "çàïðîñèòü èíôîðìàöèþ"
+
+#: includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:29
+#, fuzzy
+msgid "Please type your name"
+msgstr "ïîæàëóéñòà ââåäèòå èìÿ"
+
+#: includes/contact-form/multi-contact-show-form.php:32
+#, fuzzy
+msgid "Your Email"
+msgstr "âàø email"
+
+#: includes/contact-form/multi-contact-show-form.php:35
+#, fuzzy
+msgid "Please type your email"
+msgstr "ïîæàëóéñòà ââåäèòå email"
+
+#: includes/contact-form/multi-contact-show-form.php:39
+#, fuzzy
+msgid "Your Message"
+msgstr "âàøå ñîîáùåíèå"
+
+#: includes/contact-form/multi-contact-show-form.php:41
+#, fuzzy
+msgid "Please type your message"
+msgstr "ïîæàëóéñòà ââåäèòå ñîîáùåíèå"
+
+#: includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "îòïðàâèòü"
+
+#: includes/contact-form/multi-contact-show-form.php:53
+msgid "Sending your message. Please wait..."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "There was a problem sending your message. Please try again."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "Please enter one valid email address."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please complete all the fields in the form before sending."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Name Error. Use only alpha."
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr ""
+
+#: includes/feedback/activated-manager.php:137
+#: includes/feedback/feedback-last.php:104
+#, fuzzy
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr "çäðàâñòâóéòå ìåíÿ çîâóò Áèëë è ÿ ñîçäàòåëü ýòîãî øàáëîíà"
+
+#: includes/feedback/activated-manager.php:146
+#: includes/feedback/feedback-last.php:111
+#, fuzzy
+msgid "Thank You!"
+msgstr "áëàãîäàðþ îòïðàâèòü"
+
+#: includes/feedback/activated-manager.php:149
+#, fuzzy
+msgid "Yes, Submit"
+msgstr "äà îòïðàâèòü"
+
+#: includes/feedback/activated-manager.php:151
+msgid "Skip"
+msgstr "ïðîïóñòèòü"
+
+#: includes/feedback/feedback-last.php:103
+#, fuzzy
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr "åñëè ó âàñ åñòü ìèíóòêà ïîæàëóéñòà ïîÿñíèòå çà÷åì âû äåàêòèâèðóåòå"
+
+#: includes/feedback/feedback-last.php:109
+#, fuzzy
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr "ñîîáùèòå ïðè÷èíó"
+
+#: includes/feedback/feedback-last.php:113
+#, fuzzy
+msgid "type here yours sugestions ..."
+msgstr "ââåäèòå âàøè ïîæåëàíèÿ"
+
+#: includes/feedback/feedback-last.php:115
+#, fuzzy
+msgid "(In this case, we are unable to email you)"
+msgstr "â ýòîì ñëó÷àå ìû íå ñìîæåì ñâÿçàòüñÿ ñ âàìè"
+
+#: includes/feedback/feedback-last.php:117
+#, fuzzy
+msgid "Yes, Submit and Deactivate"
+msgstr "äà  îòïðàâèòü è äåàêòèâèðîâàòü"
+
+#: includes/feedback/feedback-last.php:119
+#, fuzzy
+msgid "Cancel Deactivation"
+msgstr "îòìåíèòü äåàêòèâàöèþ"
+
+#: includes/feedback/feedback-last.php:120
+#, fuzzy
+msgid "No, Just Deactivate it"
+msgstr "íåò äåàêòèâèðóéòå"
+
+#: includes/feedback/feedback.php:139
+#, fuzzy
+msgid "Bill Minozzi"
+msgstr "áèëë ìèíîööè"
+
+#: includes/feedback/feedback.php:143
+#, fuzzy
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr "äîáðûé äåíü  ÿ áèëë ìèíîööè è ÿ ðàçðàáîò÷èê"
+
+#: includes/feedback/feedback.php:146
+#, fuzzy
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr "åñëè âàì íðàâèòñÿ ïðîäóêò ïîæàëóéñòà íàïèøèòå îá ýòîì"
+
+#: includes/feedback/feedback.php:148
+#, fuzzy
+msgid "Rate or Share"
+msgstr "îöåíèòü èëè ïîäåëèòüñÿ"
+
+#: includes/feedback/feedback.php:149
+#, fuzzy
+msgid "No, dismiss"
+msgstr "íåò îòïóñêàòü"
+
+#: includes/feedback/feedback.php:150
+msgid "or"
+msgstr "èëè"
+
+#: includes/feedback/feedback.php:151
+#, fuzzy
+msgid "Remind me later"
+msgstr "íàïîìíèòü ïîçæå"
+
+#: includes/functions/functions.php:204
+msgid "Coupe"
+msgstr "êóïå"
+
+#: includes/functions/functions.php:205
+#, fuzzy
+msgid "Luxury Car"
+msgstr "ëþêñ àâòî"
+
+#: includes/functions/functions.php:206
+msgid "Sedan"
+msgstr "Ñåäàí"
+
+#: includes/functions/functions.php:207
+#, fuzzy
+msgid "Sports Car"
+msgstr "ñïîðòêàð"
+
+#: includes/functions/functions.php:208
+#, fuzzy
+msgid "Sport Utility Vehicle"
+msgstr "ñïîðò àâòî"
+
+#: includes/functions/functions.php:209
+msgid "Van"
+msgstr "Ìèíèâåí"
+
+#: includes/functions/functions.php:210
+msgid "Wagon"
+msgstr "Ìèíèâåí"
+
+#: includes/functions/functions.php:211 includes/post-type/meta-box.php:82
+#: includes/search/search-function.php:195
+#: includes/search/search-function.php:196
+msgid "Other"
+msgstr "Äðóãîå"
+
+#: includes/functions/functions.php:608 includes/functions/functions.php:620
+#, fuzzy
+msgid "Extend standard plugin functionality with new great options."
+msgstr "ðàñøèðèòü âîçìîæíîñòè ïëàãèíà"
+
+#: includes/functions/functions.php:614 includes/functions/functions.php:626
+#: includes/functions/functions.php:632
+msgid "Make Your Website Look More Professional."
+msgstr ""
+
+#: includes/functions/functions.php:634
+#, fuzzy
+msgid "It is time to upgrade your"
+msgstr "âðåìÿ äëÿ îáíîâëåíèÿ"
+
+#: includes/functions/functions.php:737
+#, fuzzy
+msgid "Close notice"
+msgstr "çàêðûòèå"
+
+#: includes/functions/functions.php:748
+msgid "to"
+msgstr "ê"
+
+#: includes/functions/functions.php:752
+#, fuzzy
+msgid "version!"
+msgstr "âåðñèÿ"
+
+#: includes/functions/functions.php:760
+#, fuzzy
+msgid "Learn More"
+msgstr "óçíàòü áîëüøå"
+
+#: includes/functions/functions.php:764
+msgid "Dismiss"
+msgstr "Îòìåíèòü"
+
+#: includes/functions/functions.php:814
+msgid "Dashboard"
+msgstr ""
+
+#: includes/functions/functions.php:832
+msgid "Go Pro"
+msgstr ""
+
+#: includes/functions/health.php:49
+msgid "My Memory Test"
+msgstr ""
+
+#: includes/functions/health.php:64 includes/functions/health_permalink.php:36
+msgid "Critical"
+msgstr ""
+
+#: includes/functions/health.php:69
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr ""
+
+#: includes/functions/health.php:72
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+
+#: includes/functions/health.php:77
+msgid "WordPress Help Page"
+msgstr ""
+
+#: includes/functions/health_permalink.php:16
+msgid "Wrong Permalink"
+msgstr ""
+
+#: includes/functions/health_permalink.php:41
+msgid "Wrong Permalink Settings"
+msgstr ""
+
+#: includes/functions/health_permalink.php:44
+msgid ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name "
+"(check)\n"
+"                     Then, click Save Changes."
+msgstr ""
+
+#: includes/help/help.php:74 includes/help/help.php:148
+#: includes/help/help.php:264 includes/help/help.php:306
+#: includes/help/help.php:325 includes/help/help.php:348
+msgid "Overview"
+msgstr "Îáçîð"
+
+#: includes/help/help.php:79
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/help/help.php:153
+#, fuzzy
+msgid "Field Types"
+msgstr "âèäû ïîëåé"
+
+#: includes/help/help.php:158
+#, fuzzy
+msgid "Add Fields Form"
+msgstr "ôîðìà äîáàâëåíèÿ"
+
+#: includes/help/help.php:163
+#, fuzzy
+msgid "Edit and Trash Fields"
+msgstr "èçìåíèòü è óäàëèòü ïîëÿ"
+
+#: includes/help/help.php:274 includes/templates/template-functions.php:178
+msgid "Location"
+msgstr "Ìåñòî"
+
+#: includes/help/help.php:284
+#, fuzzy
+msgid "Edit and Trash Cars"
+msgstr "èçìåíèòü è óäàëèòü àâòî"
+
+#: includes/help/help.php:289 includes/post-type/post-functions.php:408
+#, fuzzy
+msgid "Featured Image"
+msgstr "ãëàâíîå èçîáðàæåíèå"
+
+#: includes/help/help.php:294
+#, fuzzy
+msgid "Images and Gallery"
+msgstr "ãàëåðåÿ èçîáðàæåíèé"
+
+#: includes/multi/multi-functions.php:12
+#, fuzzy
+msgid "Search Fields"
+msgstr "Ïîèñê"
+
+#: includes/multi/multi-functions.php:27
+#, fuzzy
+msgid "Order"
+msgstr "ïîðÿäîê"
+
+#: includes/multi/multi-functions.php:28
+msgid "Type Field"
+msgstr ""
+
+#: includes/multi/multi-functions.php:29
+msgid "Label"
+msgstr ""
+
+#: includes/multi/multi-functions.php:30
+#, fuzzy
+msgid "Search Bar"
+msgstr "Ïîèñê"
+
+#: includes/multi/multi-functions.php:31
+msgid "Widget"
+msgstr ""
+
+#: includes/post-type/meta-box.php:5
+#, fuzzy
+msgid "The amount of Km"
+msgstr "ñóììà"
+
+#: includes/post-type/meta-box.php:7
+#, fuzzy
+msgid "The amount of Miles"
+msgstr "ñóììà"
+
+#: includes/post-type/meta-box.php:8 includes/post-type/meta-box.php:12
+#, fuzzy
+msgid "Only numbers, no point, no comma."
+msgstr "ëîøàäèíûõ ñèë"
+
+#: includes/post-type/meta-box.php:10
+msgid "Engine"
+msgstr ""
+
+#: includes/post-type/meta-box.php:18 includes/post-type/post-functions.php:409
+#, fuzzy
+msgid "Featured"
+msgstr "Âîçìîæíîñòè"
+
+#: includes/post-type/meta-box.php:19
+#, fuzzy
+msgid "Mark to show up at Featured Widget."
+msgstr "îòìåòèòü äëÿ îòîáðàæåíèÿ â âèäæåòå"
+
+#: includes/post-type/meta-box.php:23 includes/post-type/post-functions.php:407
+#: includes/search/search-function.php:377
+msgid "Price"
+msgstr "Öåíà"
+
+#: includes/post-type/meta-box.php:24
+#, fuzzy
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr "íå ââîäèòå ñïåöñèìâîëû"
+
+#: includes/post-type/meta-box.php:30 includes/post-type/post-functions.php:410
+#: includes/search/search-function.php:104
+#: includes/templates/template-functions.php:165
+#: includes/templates/template-showroom.php:118
+#: includes/templates/template-showroom2.php:269
+#: includes/widgets/widgets.php:72 includes/widgets/widgets.php:155
+msgid "Year"
+msgstr "Ãîä"
+
+#: includes/post-type/meta-box.php:31
+#, fuzzy
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "ãîä ïðîäóêòà áåç öèôð è ñïåöñèìâîëîâ"
+
+#: includes/post-type/meta-box.php:54
+msgid "New"
+msgstr "Íîâàÿ"
+
+#: includes/post-type/meta-box.php:55
+msgid "Used"
+msgstr "ÁÓ"
+
+#: includes/post-type/meta-box.php:56
+msgid "Damaged"
+msgstr "Ïîâðåæäåííàÿ"
+
+#: includes/post-type/meta-box.php:61 includes/search/search-function.php:137
+#: includes/templates/template-functions.php:115
+#: includes/templates/template-showroom.php:120
+#: includes/templates/template-showroom2.php:271
+msgid "Transmission"
+msgstr "ÊÏÏ"
+
+#: includes/post-type/meta-box.php:62
+#, fuzzy
+msgid "What kind of Transmission is this"
+msgstr "âèä ÊÏÏ"
+
+#: includes/post-type/meta-box.php:66 includes/search/search-function.php:144
+#: includes/search/search-function.php:145
+msgid "Automatic"
+msgstr "Àâòîìàò"
+
+#: includes/post-type/meta-box.php:67 includes/search/search-function.php:147
+#: includes/search/search-function.php:148
+msgid "Manual"
+msgstr "ÊÏÏ"
+
+#: includes/post-type/meta-box.php:68 includes/search/search-function.php:150
+#: includes/search/search-function.php:151
+msgid "Tiptronic"
+msgstr "Òèïòðîíèê"
+
+#: includes/post-type/meta-box.php:70 includes/post-type/meta-box.php:71
+msgid "Fuel Type."
+msgstr ""
+
+#: includes/post-type/meta-box.php:75 includes/search/search-function.php:174
+#: includes/search/search-function.php:175
+msgid "Diesel"
+msgstr "Äèçåëü"
+
+#: includes/post-type/meta-box.php:76 includes/search/search-function.php:177
+#: includes/search/search-function.php:178
+msgid "Gasoline"
+msgstr "Áåíçèí"
+
+#: includes/post-type/meta-box.php:77 includes/search/search-function.php:180
+#: includes/search/search-function.php:181
+msgid "Hybrid"
+msgstr "Ãèáðèä"
+
+#: includes/post-type/meta-box.php:78 includes/search/search-function.php:183
+#: includes/search/search-function.php:184
+msgid "Electric"
+msgstr "Ýëåêòðî"
+
+#: includes/post-type/meta-box.php:79 includes/search/search-function.php:186
+#: includes/search/search-function.php:187
+msgid "Biodiesel"
+msgstr "Áèîäèçåëü"
+
+#: includes/post-type/meta-box.php:80 includes/search/search-function.php:190
+msgid "CNG"
+msgstr "CNG"
+
+#: includes/post-type/meta-box.php:81 includes/search/search-function.php:192
+#: includes/search/search-function.php:193
+msgid "Ethanol"
+msgstr "Ýòàíîë"
+
+#: includes/post-type/meta-box.php:183
+#: includes/templates/template-functions.php:12
+msgid "Details"
+msgstr "Äåòàëè"
+
+#: includes/post-type/meta-box.php:209 includes/post-type/meta-box.php:213
+msgid "Specs"
+msgstr "Ñïåöèôèêàöèÿ"
+
+#: includes/post-type/meta-box.php:210 includes/post-type/meta-box.php:275
+#: includes/templates/template-functions.php:46
+msgid "Features"
+msgstr "Âîçìîæíîñòè"
+
+#: includes/post-type/meta-box.php:266
+#, fuzzy
+msgid "Add any Feature Field (Settings => Field Features)"
+msgstr "äîáàâèòü ëþáîå ïîëå"
+
+#: includes/post-type/post-functions.php:12
+msgid "Cars"
+msgstr ""
+
+#: includes/post-type/post-functions.php:16
+msgid "Edit Cars"
+msgstr ""
+
+#: includes/post-type/post-functions.php:17
+#, fuzzy
+msgid "Search Cars"
+msgstr "ïîèñê àâòî"
+
+#: includes/post-type/post-functions.php:50
+#, fuzzy
+msgid "Search makes"
+msgstr "Ïîèñê"
+
+#: includes/post-type/post-functions.php:52
+msgid "All makes"
+msgstr ""
+
+#: includes/post-type/post-functions.php:53
+#, fuzzy
+msgid "Parent makes"
+msgstr "áðåíäû àâòî"
+
+#: includes/post-type/post-functions.php:54
+#, fuzzy
+msgid "Parent makes:"
+msgstr "áðåíäû àâòî"
+
+#: includes/post-type/post-functions.php:55
+#, fuzzy
+msgid "Edit makes"
+msgstr "èçìåíèòü áðåíäû"
+
+#: includes/post-type/post-functions.php:56
+#, fuzzy
+msgid "Update makes"
+msgstr "îáíîâèòü áðåíäû"
+
+#: includes/post-type/post-functions.php:57
+#, fuzzy
+msgid "Add New makes"
+msgstr "äîáàâèòü áðåíäû"
+
+#: includes/post-type/post-functions.php:58
+#, fuzzy
+msgid "New makes"
+msgstr "íîâûå áðåíäû"
+
+#: includes/post-type/post-functions.php:59
+#, fuzzy
+msgid "Separate makes with commas"
+msgstr "ðàçäåëèòü áðåíäû çàïÿòûìè"
+
+#: includes/post-type/post-functions.php:60
+#, fuzzy
+msgid "Add or Remove makes"
+msgstr "äîáàâèòü èëè óäàëèòü áðåíäû"
+
+#: includes/post-type/post-functions.php:61
+#: includes/post-type/post-functions.php:88
+#, fuzzy
+msgid "Choose from the most used makers"
+msgstr "âûáðàòü èç ñàìûõ ÷àñòîèñïîëüçóåìûõ"
+
+#: includes/post-type/post-functions.php:77
+#, fuzzy
+msgid "Search team"
+msgstr "Ïîèñê"
+
+#: includes/post-type/post-functions.php:79
+msgid "All Team"
+msgstr ""
+
+#: includes/post-type/post-functions.php:80
+#, fuzzy
+msgid "Parent team"
+msgstr "êîìàíäà"
+
+#: includes/post-type/post-functions.php:81
+#, fuzzy
+msgid "Parent team:"
+msgstr "êîìàíäà"
+
+#: includes/post-type/post-functions.php:82
+#, fuzzy
+msgid "Edit team member"
+msgstr "èçìåíèòü êîìàíäó"
+
+#: includes/post-type/post-functions.php:83
+#, fuzzy
+msgid "Update team"
+msgstr "îáíîâèòü êîìàíäó"
+
+#: includes/post-type/post-functions.php:84
+#, fuzzy
+msgid "Add New team member"
+msgstr "äîáàâèòü ÷ëåíà êîìàíäû"
+
+#: includes/post-type/post-functions.php:85
+#, fuzzy
+msgid "New team"
+msgstr "íîâàÿ êîìàíäà"
+
+#: includes/post-type/post-functions.php:86
+#, fuzzy
+msgid "Separate team with commas"
+msgstr "ðàçäåëèòü êîìàíäó çàïÿòûìè"
+
+#: includes/post-type/post-functions.php:87
+#, fuzzy
+msgid "Add or Remove team"
+msgstr "äîáàâèòü èëè óäàëèòü êîìàíäó"
+
+#: includes/post-type/post-functions.php:103
+#, fuzzy
+msgid "Search Locations"
+msgstr "Ìåñòî"
+
+#: includes/post-type/post-functions.php:105
+#, fuzzy
+msgid "All Locations"
+msgstr "Ìåñòî"
+
+#: includes/post-type/post-functions.php:106
+#, fuzzy
+msgid "Parent locations"
+msgstr "ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:107
+#, fuzzy
+msgid "Parent locations:"
+msgstr "ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:108
+#, fuzzy
+msgid "Edit locations"
+msgstr "èçìåíèòü ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:109
+#, fuzzy
+msgid "Update locations"
+msgstr "îáíîâèòü ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:110
+#, fuzzy
+msgid "Add New locations"
+msgstr "äîáàâèòü íîâûå ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:111
+#, fuzzy
+msgid "New locations"
+msgstr "íîâûå ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:112
+#, fuzzy
+msgid "Separate locations with commas"
+msgstr "ðàçäåëèòü ìåñòîïîëîæåíèÿ çàïÿòûìè"
+
+#: includes/post-type/post-functions.php:113
+#, fuzzy
+msgid "Add or Remove locations"
+msgstr "äîáàâèòü èëè èçìåíèòü ìåñòîïîëîæåíèÿ"
+
+#: includes/post-type/post-functions.php:114
+#, fuzzy
+msgid "Choose from the most used locations"
+msgstr "âûáðàòü èç ñàìûõ ÷àñòîèñïîëüçóåìûõ"
+
+#: includes/post-type/post-functions.php:131
+#: includes/post-type/post-functions.php:220
+#, fuzzy
+msgid "Order:"
+msgstr "ïîðÿäîê"
+
+#: includes/post-type/post-functions.php:133
+#: includes/post-type/post-functions.php:223
+#, fuzzy
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr "ïîðÿäîê îòîáðàæåíèÿ"
+
+#: includes/post-type/post-functions.php:136
+#: includes/post-type/post-functions.php:228
+#, fuzzy
+msgid "Profile Image:"
+msgstr "êàðòèíêà ïðîôèëÿ"
+
+#: includes/post-type/post-functions.php:141
+#: includes/post-type/post-functions.php:245
+#, fuzzy
+msgid "Just click the Button to Select Upload Image"
+msgstr "âûáðàòü èçîáðàæåíèå"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:250
+#, fuzzy
+msgid "Position:"
+msgstr "ïîçèöèÿ"
+
+#: includes/post-type/post-functions.php:149
+#: includes/post-type/post-functions.php:253
+#, fuzzy
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "äëÿ ïðèìåðà ìåíåäæåð ïðîäàæ"
+
+#: includes/post-type/post-functions.php:152
+#: includes/post-type/post-functions.php:258
+#, fuzzy
+msgid "Phone:"
+msgstr "òåëåôîí"
+
+#: includes/post-type/post-functions.php:156
+#: includes/post-type/post-functions.php:265
+#, fuzzy
+msgid "Email address:"
+msgstr "email"
+
+#: includes/post-type/post-functions.php:160
+#: includes/post-type/post-functions.php:272
+#, fuzzy
+msgid "Skype:"
+msgstr "skype"
+
+#: includes/post-type/post-functions.php:164
+#: includes/post-type/post-functions.php:279
+msgid "Facebook URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:168
+#: includes/post-type/post-functions.php:286
+msgid "Twitter URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:172
+#: includes/post-type/post-functions.php:293
+msgid "Linkedin URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:176
+#: includes/post-type/post-functions.php:300
+msgid "Youtube URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:180
+#: includes/post-type/post-functions.php:307
+msgid "Instagram URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:184
+#: includes/post-type/post-functions.php:314
+msgid "Vimeo URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:436
+#, fuzzy
+msgid "Call For Price"
+msgstr "çàïðîñ öåíû"
+
+#: includes/search/search-function.php:16
+#: includes/search/search-function.php:403 includes/widgets/widgets.php:202
+msgid "Search"
+msgstr "Ïîèñê"
+
+#: includes/search/search-function.php:78
+#: includes/templates/template-functions.php:86
+msgid "Make"
+msgstr "Ìàðêà"
+
+#: includes/search/search-function.php:86
+#: includes/search/search-function.php:109
+#: includes/search/search-function.php:143
+#: includes/search/search-function.php:173
+#: includes/search/search-function.php:241
+#: includes/search/search-function.php:265
+#: includes/search/search-function.php:286
+#: includes/search/search-function.php:311
+msgid "Any"
+msgstr "Ëþáîé"
+
+#: includes/search/search-function.php:167
+#: includes/templates/template-functions.php:116
+#: includes/templates/template-showroom.php:119
+#: includes/templates/template-showroom2.php:270
+msgid "Fuel"
+msgstr "Òîïëèâî"
+
+#: includes/search/search-function.php:304
+#, fuzzy
+msgid "Order By"
+msgstr "ïîðÿäîê ñîðòèðîâêè"
+
+#: includes/search/search-function.php:313
+#, fuzzy
+msgid "Year newest first"
+msgstr "ãîä äî"
+
+#: includes/search/search-function.php:316
+#, fuzzy
+msgid "Year oldest first"
+msgstr "ãîä îò"
+
+#: includes/search/search-function.php:319
+#, fuzzy
+msgid "Price higher first"
+msgstr "öåíà äî"
+
+#: includes/search/search-function.php:322
+#, fuzzy
+msgid "Price lower first"
+msgstr "öåíà îò"
+
+#: includes/search/search-function.php:325
+#, fuzzy
+msgid "Mileage higher first"
+msgstr "ïðîáåã äî"
+
+#: includes/search/search-function.php:328
+#, fuzzy
+msgid "Mileage lower first"
+msgstr "ïðîáåã îò"
+
+#: includes/search/search-function.php:349
+#, fuzzy
+msgid "Price Range"
+msgstr "öåíîâîé äèàïàçîí"
+
+#: includes/team/team.php:114
+#, fuzzy
+msgid "No Team Member Added!"
+msgstr "íåò ÷ëåíà êîìàíäû"
+
+#: includes/templates/template-functions.php:34
+msgid "Yes"
+msgstr ""
+
+#: includes/templates/template-functions.php:36
+msgid "No"
+msgstr ""
+
+#: includes/templates/template-functions.php:92
+#: includes/templates/template-functions.php:104
+msgid "Model"
+msgstr "Ìîäåëü"
+
+#: includes/templates/template-functions.php:118
+msgid "Cond"
+msgstr "Ñîñòîÿíèå"
+
+#: includes/templates/template-functions.php:162
+#: includes/templates/template-showroom.php:105
+#: includes/templates/template-showroom1.php:117
+#: includes/templates/template-showroom2.php:251
+#: includes/templates/template-showroom3.php:268
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:153
+#, fuzzy
+msgid "Call for Price"
+msgstr "çàïðîñ öåíû"
+
+#: includes/templates/template-showroom.php:145
+#: includes/templates/template-showroom1.php:181
+#: includes/templates/template-showroom2.php:293
+#: includes/templates/template-showroom3.php:330
+#: includes/templates/template-single.php:37
+msgid "Back"
+msgstr "Íàçàä"
+
+#: includes/templates/template-showroom.php:146
+#: includes/templates/template-showroom1.php:182
+#: includes/templates/template-showroom2.php:294
+#: includes/templates/template-showroom3.php:331
+msgid "Onward"
+msgstr "Âïåðåä"
+
+#: includes/templates/template-showroom.php:156
+#: includes/templates/template-showroom1.php:192
+#: includes/templates/template-showroom2.php:303
+#: includes/templates/template-showroom3.php:340
+#, fuzzy
+msgid "Not Found !"
+msgstr "íå íàéäåí"
+
+#: includes/templates/template-showroom1.php:169
+#: includes/templates/template-showroom3.php:321
+msgid "View"
+msgstr "Ïðîñìîòð"
+
+#: includes/templates/template-single.php:51
+#, fuzzy
+msgid "Contact Us"
+msgstr "êîíòàêòû"
+
+#: includes/widgets/widgets.php:15
+#, fuzzy
+msgid "A list of Recent cars"
+msgstr "ñïèñîê àâòî"
+
+#: includes/widgets/widgets.php:41
+#, fuzzy
+msgid "New Arrivals"
+msgstr "íîâèíêè"
+
+#: includes/widgets/widgets.php:93
+#, fuzzy
+msgid "A list of Featured car-s"
+msgstr "ñïèñîê èçáðàííûõ àâò"
+
+#: includes/widgets/widgets.php:117
+#, fuzzy
+msgid "Featured cars"
+msgstr "èçáðàííûå àâòî"
+
+#: includes/widgets/widgets.php:177
+#, fuzzy
+msgid "Search cars"
+msgstr "ïîèñê àâòî"
+
+#: includes/widgets/widgets.php:189
+msgid "Title"
+msgstr "Íàçâàíèå"
+
+#: settings/options/plugin_options_tabbed.php:16
+#, fuzzy
+msgid "Choose your currency, metric system and so on."
+msgstr "âûáîð ìåòðè÷åñêîé ñèñòåìû"
+
+#: settings/options/plugin_options_tabbed.php:21
+msgid "Currency"
+msgstr "Âàëþòà"
+
+#: settings/options/plugin_options_tabbed.php:40
+#, fuzzy
+msgid "Miles - Km"
+msgstr "ìèëè-êì"
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "Miles"
+msgstr "ìèëè-êì"
+
+#: settings/options/plugin_options_tabbed.php:43
+msgid "Kms"
+msgstr "ÊÌ"
+
+#: settings/options/plugin_options_tabbed.php:44
+msgid "Hours"
+msgstr "×àñû"
+
+#: settings/options/plugin_options_tabbed.php:50
+#, fuzzy
+msgid "Liters - Gallons"
+msgstr "ëèòðû ãàëëîíû"
+
+#: settings/options/plugin_options_tabbed.php:52
+msgid "Liters"
+msgstr "Ëèòðû"
+
+#: settings/options/plugin_options_tabbed.php:53
+msgid "Gallons"
+msgstr "Ãàëîíû"
+
+#: settings/options/plugin_options_tabbed.php:70
+#, fuzzy
+msgid "How many cars would you like to display per page?"
+msgstr "Ñêîëüêî ìàøèí îòîáðàçèòü íà ñòðàíèöå"
+
+#: settings/options/plugin_options_tabbed.php:94
+#, fuzzy
+msgid "Remove Sidebar from Search Result Page"
+msgstr "óáðàòü ñàéäáàð"
+
+#: settings/options/plugin_options_tabbed.php:103
+#, fuzzy
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "çàìåíèòü wp ãàëåðåþ ñ flex"
+
+#: settings/options/plugin_options_tabbed.php:112
+#, fuzzy
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr "èñïîëüçîâàòü èêîíêè 2-1 èëè 4-3"
+
+#: settings/options/plugin_options_tabbed.php:121
+#, fuzzy
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "âêëþ÷èòü êîíòàêòíóþ ôîðìó íà ñòðàíèöå àâòî"
+
+#: settings/options/plugin_options_tabbed.php:130
+#, fuzzy
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual car page."
+msgstr "çàïîëíèòå âàø email"
+
+#: settings/options/plugin_options_tabbed.php:138
+#, fuzzy
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "â ñòðàíèöå êàòàëîãà èñïîëüçîâàòü ãàëåðåþ èëè ñïèñîê"
+
+#: settings/options/plugin_options_tabbed.php:150
+msgid "Do you use HP or KW?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:159
+#, fuzzy
+msgid ""
+"Here you can manage the car features/equipments fields to your car form."
+msgstr "çäåñü ìîæíî èçìåíèòü äàííûå îá àâòî"
+
+#: settings/options/plugin_options_tabbed.php:161
+#, fuzzy
+msgid "Just add one or more field names - one for each line -"
+msgstr "äîáàâèòü èìåíà ïîëåé"
+
+#: settings/options/plugin_options_tabbed.php:164
+msgid "For example: GPS, DVD, and so on... "
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:166
+#, fuzzy
+msgid "Don't use special characters."
+msgstr "íå èñïîëüçîâàòü ñïåöñèìâîëû"
+
+#: settings/options/plugin_options_tabbed.php:172
+#, fuzzy
+msgid "Add this fields to Car Form. Only one field each line:"
+msgstr "äîáàâèòü ïîëÿ - 1 ïîëå òîëüêî 1 ðàç"
+
+#: settings/options/plugin_options_tabbed.php:175
+#, fuzzy
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr "èçìåíèòü îïöèè ïîèñêà"
+
+#: settings/options/plugin_options_tabbed.php:180
+#: settings/options/plugin_options_tabbed.php:237
+#: settings/options/plugin_options_tabbed.php:295
+#, fuzzy
+msgid "Show the Make control"
+msgstr "ïîêàçàòü ìàðêó"
+
+#: settings/options/plugin_options_tabbed.php:189
+#: settings/options/plugin_options_tabbed.php:246
+#: settings/options/plugin_options_tabbed.php:304
+#, fuzzy
+msgid "Show the Fuel type control"
+msgstr "ïîêàçàòü òîïëèâî"
+
+#: settings/options/plugin_options_tabbed.php:198
+#: settings/options/plugin_options_tabbed.php:255
+#: settings/options/plugin_options_tabbed.php:313
+#, fuzzy
+msgid "Show the Year control"
+msgstr "ïîêàçàòü ãîä"
+
+#: settings/options/plugin_options_tabbed.php:207
+#: settings/options/plugin_options_tabbed.php:273
+#: settings/options/plugin_options_tabbed.php:331
+#, fuzzy
+msgid "Show the Transmission control"
+msgstr "ïîêàçàòü ÊÏÏ"
+
+#: settings/options/plugin_options_tabbed.php:216
+#, fuzzy
+msgid "Show the Price slider"
+msgstr "ïîêàçàòü öåíó"
+
+#: settings/options/plugin_options_tabbed.php:225
+#: settings/options/plugin_options_tabbed.php:282
+#: settings/options/plugin_options_tabbed.php:340
+#, fuzzy
+msgid "Show the Order By Control"
+msgstr "ïîêàçàòü ôèëüòð"
+
+#: settings/options/plugin_options_tabbed.php:232
+#, fuzzy
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr "èçìåíèòü ïîèñêîâûé âèäæåò"
+
+#: settings/options/plugin_options_tabbed.php:264
+#: settings/options/plugin_options_tabbed.php:322
+#, fuzzy
+msgid "Show the Price control"
+msgstr "ïîêàçàòü öåíó"
+
+#: settings/options/plugin_options_tabbed.php:353
+#, fuzzy
+msgid "Search Button Background Color"
+msgstr "öâåò ôîíà êíîïêè ïîèñêà"
+
+#: settings/options/plugin_options_tabbed.php:358
+#, fuzzy
+msgid "Search Button Color"
+msgstr "öâåò êíîïêè ïîèñêà"
+
+#: settings/options/plugin_options_tabbed.php:363
+#, fuzzy
+msgid "Background Color"
+msgstr "öâåò ôîíà"
+
+#: settings/options/plugin_options_tabbed.php:367
+#, fuzzy
+msgid "Foreground Text Color"
+msgstr "öâåò òåêñòà"
+
+#: settings/options/plugin_options_tabbed.php:371
+#, fuzzy
+msgid "Label Color"
+msgstr "öâåò íàäïèñè"
+
+#: settings/options/plugin_options_tabbed.php:375
+#, fuzzy
+msgid "Select Border Color"
+msgstr "öâåò ãðàíèöû"
+
+#: settings/options/plugin_options_tabbed.php:379
+#, fuzzy
+msgid "car Background Page Color"
+msgstr "öâåò ôîíà àâòî"
+
+#: settings/options/plugin_options_tabbed.php:383
+#, fuzzy
+msgid "car Box Border Color"
+msgstr "öâåò ôîíà àâòî ñòðàíèöû"
+
+#: settings/options/plugin_options_tabbed.php:387
+#, fuzzy
+msgid "Select Title Color"
+msgstr "âûáðàòü íàçâàíèå öâåò"
+
+#: settings/options/plugin_options_tabbed.php:392
+#, fuzzy
+msgid "Single car Page Background Color"
+msgstr "öâåò ôîíà ñòðàíèöû îäíîãî àâòî"
+
+#: settings/options/plugin_options_tabbed.php:396
+#, fuzzy
+msgid "Single car Page Foreground Text Color"
+msgstr "öâåò òåêñòà ñòðàíèöû îäíîãî àâòî"
+
+#: settings/options/plugin_options_tabbed.php:400
+msgid "Customized CSS"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Engine HP. Only numbers, no point, no comma."
+#~ msgstr "ëîøàäèíûõ ñèë"
+
+#~ msgid "your-name"
+#~ msgstr "âàøå èìÿ"
+
+#~ msgid "Agents"
+#~ msgstr "Àãåíòû"
+
+#~ msgid "featured-images"
+#~ msgstr "èçáðàííûå èçîáðàæåíèÿ"
+
+#~ msgid "the-amount-of-miles-on-this-car-only-numbers-no-point-no-comma"
+#~ msgstr "ìèëü"
+
+#~ msgid "fuel-type"
+#~ msgstr "âèä òîïëèâà"
+
+#~ msgid "parent-makes-532a41ae0cd34e45980c42d539232aca"
+#~ msgstr "áðåíäû àâòî"
+
+#~ msgid "parent-team-e53c22ef4d0bee481e835f3d8c7214e9"
+#~ msgstr "êîìàíäà"
+
+#~ msgid "parent-locations-b33e03286e96e88d3559f9da485848ea"
+#~ msgstr "ìåñòîïîëîæåíèÿ"
+
+#~ msgid "facebook-url"
+#~ msgstr "facebook"
+
+#~ msgid "twitter-url"
+#~ msgstr "twitter"
+
+#~ msgid "linkedin-url"
+#~ msgstr "linkedin"
+
+#~ msgid "youtube-url"
+#~ msgstr "youtube"
+
+#~ msgid "instagram-url"
+#~ msgstr "instagram"
+
+#~ msgid "vimeo-url"
+#~ msgstr "vimeo"
+
+#~ msgid "call-for-price-1fd1b1bbdc1cf7563ba984764a3a4e14"
+#~ msgstr "çàïðîñ öåíû"
+
+#~ msgid "miles-km"
+#~ msgstr "ìèëè-êì"
+
+#~ msgid "for-example-gps-dvd-and-so-on"
+#~ msgstr "ê ïðèìåðó GPS DVD"

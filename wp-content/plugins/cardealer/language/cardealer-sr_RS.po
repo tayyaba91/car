@@ -1,0 +1,1097 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cardealer\n"
+"POT-Creation-Date: 2019-01-25 16:25-0000\n"
+"PO-Revision-Date: 2019-10-07 12:13+0100\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;esc_attr_e;_e;_x;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: f:/wordpress/cardealer/trunk/dashboard/main.php:106
+#, fuzzy
+msgid "Fields Table"
+msgstr "Tipovi polja"
+
+#: f:/wordpress/cardealer/trunk/dashboard/main.php:107
+msgid "Cars Table"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/dashboard/main.php:108
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:302
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:48
+#, fuzzy
+msgid "Makes"
+msgstr "Marka"
+
+#: f:/wordpress/cardealer/trunk/dashboard/main.php:109
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:101
+#, fuzzy
+msgid "Locations"
+msgstr "Lokacija"
+
+#: f:/wordpress/cardealer/trunk/dashboard/main.php:110
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:290
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:75
+msgid "Team"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/dashboard/main.php:111
+msgid "Settings"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:22
+msgid "Request Information"
+msgstr "Zatražite informaciju"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr "Vaše ime"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:29
+msgid "Please type your name"
+msgstr "Molimo unesite ime"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:32
+msgid "Your Email"
+msgstr "Vaš Email"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:35
+msgid "Please type your email"
+msgstr "Molimo unesite Vaš Email "
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:39
+msgid "Your Message"
+msgstr "Vaša poruka"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:41
+msgid "Please type your message"
+msgstr "Molimo Vas unesite poruku"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "Pošalji"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "Poništi"
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:53
+msgid "Sending your message. Please wait..."
+msgstr "Poruka se šalje. Molimo sačekajte..."
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:54
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Hvala za Vašu poruku! Javićemo Vam se uskoro."
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:55
+msgid "There was a problem sending your message. Please try again."
+msgstr "Postoji problem slanja Vaše poruke. Pokušajte ponovo."
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:56
+msgid "Please enter one valid email address."
+msgstr "Molimo, unesite jednu važeću email adresu."
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:57
+msgid "Please complete all the fields in the form before sending."
+msgstr "Molimo Vas, popunite sva polja u obrascu pre slanja."
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:58
+msgid "Name Error. Use only alpha."
+msgstr "Greška u imenu. Koristite samo slova."
+
+#: f:/wordpress/cardealer/trunk/includes/contact-form/multi-contact-show-form.php:59
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr "Poruka o grešci. Koristite samo slova i brojeve."
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/activated-manager.php:137
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:104
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/activated-manager.php:146
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:111
+msgid "Thank You!"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/activated-manager.php:149
+msgid "Yes, Submit"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/activated-manager.php:151
+msgid "Skip"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:103
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:109
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:113
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:115
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:117
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:119
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback-last.php:120
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:139
+msgid "Bill Minozzi"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:143
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:146
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:148
+msgid "Rate or Share"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:149
+msgid "No, dismiss"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:150
+msgid "or"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/feedback/feedback.php:151
+msgid "Remind me later"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:204
+msgid "Coupe"
+msgstr "Kupe"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:205
+msgid "Luxury Car"
+msgstr "Luksuzan auto"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:206
+msgid "Sedan"
+msgstr "Limuzina"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:207
+msgid "Sports Car"
+msgstr "Sportski auto"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:208
+msgid "Sport Utility Vehicle"
+msgstr "Terensko vozilo"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:209
+msgid "Van"
+msgstr "Kombi"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:210
+msgid "Wagon"
+msgstr "Karavan"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:211
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:75
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:195
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:196
+msgid "Other"
+msgstr "Ostali"
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:608
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:620
+msgid "Extend standard plugin functionality with new great options."
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:614
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:626
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:632
+msgid "Make Your Website Look More Professional."
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:634
+msgid "It is time to upgrade your"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:737
+msgid "Close notice"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:748
+msgid "to"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:752
+msgid "version!"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:760
+msgid "Learn More"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:764
+msgid "Dismiss"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:814
+msgid "Dashboard"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/functions/functions.php:832
+msgid "Go Pro"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:87
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:164
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:285
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:329
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:348
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:372
+msgid "Overview"
+msgstr "Pregled"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:93
+msgid "Import Demo Data"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:169
+msgid "Field Types"
+msgstr "Tipovi polja"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:174
+msgid "Add Fields Form"
+msgstr "Dodaj formu polja"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:179
+msgid "Edit and Trash Fields"
+msgstr "Uredi i obriši polja"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:296
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:163
+msgid "Location"
+msgstr "Lokacija"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:307
+msgid "Edit and Trash Cars"
+msgstr "Uredi i obriši automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:312
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:408
+msgid "Featured Image"
+msgstr "Izabrana slika"
+
+#: f:/wordpress/cardealer/trunk/includes/help/help.php:317
+#, fuzzy
+msgid "Images and Gallery"
+msgstr "Galerija slika"
+
+#: f:/wordpress/cardealer/trunk/includes/multi/multi-functions.php:12
+#, fuzzy
+msgid "Search Fields"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/multi/multi-functions.php:27
+#, fuzzy
+msgid "Order"
+msgstr "Naruči"
+
+#: f:/wordpress/cardealer/trunk/includes/multi/multi-functions.php:28
+msgid "Type Field"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/multi/multi-functions.php:29
+#, fuzzy
+msgid "Label"
+msgstr "Boja nalepnice"
+
+#: f:/wordpress/cardealer/trunk/includes/multi/multi-functions.php:30
+#, fuzzy
+msgid "Search Bar"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/multi/multi-functions.php:31
+msgid "Widget"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:5
+#, fuzzy
+msgid "The amount of Km"
+msgstr "Vrednost od"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:7
+#, fuzzy
+msgid "The amount of Miles"
+msgstr "Vrednost od"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:8
+#, fuzzy
+msgid "Only numbers, no point, no comma."
+msgstr "Motor KS. Samo brojevi, bez tačke, bez zareza."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:11
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:409
+#, fuzzy
+msgid "Featured"
+msgstr "Karakteristike"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:12
+msgid "Mark to show up at Featured Widget."
+msgstr "Markiraj da prikažeš izabrani Widget."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:16
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:407
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:377
+msgid "Price"
+msgstr "Cena"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:17
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Bez specijalnih karaktera (\"$\" \",\" \".\"), Plugin automatski formatizuje "
+"brojeve."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:23
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:410
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:104
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:150
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:109
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:256
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:86
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:182
+msgid "Year"
+msgstr "Godina"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:24
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Godina proizvodnje. Samo brojevi, bez tačke, bez zareza."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:37
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "Motor KS. Samo brojevi, bez tačke, bez zareza."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:42
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:43
+#, fuzzy
+msgid "Condition"
+msgstr "Stanje"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:47
+msgid "New"
+msgstr "Nov"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:48
+msgid "Used"
+msgstr "Polovan"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:49
+msgid "Damaged"
+msgstr "Oštećen"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:54
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:137
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:113
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:111
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:258
+msgid "Transmission"
+msgstr "Prenos"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:55
+msgid "What kind of Transmission is this"
+msgstr "Koja je vrsta prenosa"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:59
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:144
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:145
+msgid "Automatic"
+msgstr "Automatik"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:60
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:147
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:148
+msgid "Manual"
+msgstr "Ručni"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:61
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:150
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:151
+msgid "Tiptronic"
+msgstr "Tiptronik"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:63
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:64
+msgid "Fuel Type."
+msgstr "Vrsta goriva."
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:68
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:174
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:175
+msgid "Diesel"
+msgstr "Dizel"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:69
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:177
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:178
+msgid "Gasoline"
+msgstr "Benzin"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:70
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:180
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:181
+msgid "Hybrid"
+msgstr "Hibrid"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:71
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:183
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:184
+msgid "Electric"
+msgstr "Električni"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:72
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:186
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:187
+msgid "Biodiesel"
+msgstr "Biodizel"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:73
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:190
+msgid "CNG"
+msgstr "TNG"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:74
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:192
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:193
+msgid "Ethanol"
+msgstr "Etanol"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:176
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:12
+msgid "Details"
+msgstr "Detalji"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:202
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:206
+msgid "Specs"
+msgstr "Specifično"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:203
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:268
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:46
+msgid "Features"
+msgstr "Karakteristike"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/meta-box.php:259
+msgid "Add any Feature Field (Settings => Field Features)"
+msgstr "Dodaj neko karakteristično polje (Settings => Field Features)"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:12
+msgid "Cars"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:16
+#, fuzzy
+msgid "Edit Cars"
+msgstr "Uredi marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:17
+#, fuzzy
+msgid "Search Cars"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:50
+#, fuzzy
+msgid "Search makes"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:52
+#, fuzzy
+msgid "All makes"
+msgstr "Nova marka"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:53
+msgid "Parent makes"
+msgstr "Nosilac marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:54
+msgid "Parent makes:"
+msgstr "Nosilac marke:"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:55
+msgid "Edit makes"
+msgstr "Uredi marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:56
+msgid "Update makes"
+msgstr "Ažuriraj marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:57
+msgid "Add New makes"
+msgstr "Dodaj nove marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:58
+msgid "New makes"
+msgstr "Nova marka"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:59
+msgid "Separate makes with commas"
+msgstr "Razdvoj marke zapetom"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:60
+msgid "Add or Remove makes"
+msgstr "Dodaj ili ukloni marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:61
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:88
+msgid "Choose from the most used makers"
+msgstr "Izaberi iz najčešće korišcenih marki"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:77
+#, fuzzy
+msgid "Search team"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:79
+msgid "All Team"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:80
+#, fuzzy
+msgid "Parent team"
+msgstr "Nosilac marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:81
+#, fuzzy
+msgid "Parent team:"
+msgstr "Nosilac marke:"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:82
+msgid "Edit team member"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:83
+#, fuzzy
+msgid "Update team"
+msgstr "Ažuriraj marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:84
+#, fuzzy
+msgid "Add New team member"
+msgstr "Dodaj nove marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:85
+msgid "New team"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:86
+#, fuzzy
+msgid "Separate team with commas"
+msgstr "Razdvoj marke zapetom"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:87
+#, fuzzy
+msgid "Add or Remove team"
+msgstr "Dodaj ili ukloni marke"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:103
+#, fuzzy
+msgid "Search Locations"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:105
+#, fuzzy
+msgid "All Locations"
+msgstr "Lokacija"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:106
+msgid "Parent locations"
+msgstr "Nosilac lokacije"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:107
+msgid "Parent locations:"
+msgstr "Nosilac lokacije:"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:108
+msgid "Edit locations"
+msgstr "Uredi lokacije"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:109
+msgid "Update locations"
+msgstr "Ažuriraj lokacije"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:110
+msgid "Add New locations"
+msgstr "Dodaj nove lokacije"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:111
+msgid "New locations"
+msgstr "Nove lokacije"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:112
+msgid "Separate locations with commas"
+msgstr "Razdvoj lokacije zapetom"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:113
+msgid "Add or Remove locations"
+msgstr "Dodaj ili ukloni lokacije"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:114
+msgid "Choose from the most used locations"
+msgstr "Izaberi iz najčešće korišćenih lokacija"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:131
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:220
+#, fuzzy
+msgid "Order:"
+msgstr "Naruči"
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:133
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:223
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:136
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:228
+msgid "Profile Image:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:141
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:245
+msgid "Just click the Button to Select Upload Image"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:147
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:250
+msgid "Position:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:149
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:253
+#, fuzzy
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "Na primer: GPS, DVD, i td... "
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:152
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:258
+msgid "Phone:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:156
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:265
+msgid "Email address:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:160
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:272
+msgid "Skype:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:164
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:279
+msgid "Facebook URL:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:168
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:286
+msgid "Twitter URL:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:172
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:293
+msgid "Linkedin URL:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:176
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:300
+msgid "Youtube URL:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:180
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:307
+msgid "Instagram URL:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:184
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:314
+msgid "Vimeo URL:"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/post-type/post-functions.php:436
+msgid "Call For Price"
+msgstr "Pozovi za cenu"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:16
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:403
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:236
+msgid "Search"
+msgstr "Pretraži"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:78
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:84
+msgid "Make"
+msgstr "Marka"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:86
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:109
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:143
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:173
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:241
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:265
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:286
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:311
+msgid "Any"
+msgstr "Bilo koje"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:167
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:114
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:110
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:257
+msgid "Fuel"
+msgstr "Gorivo"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:304
+msgid "Order By"
+msgstr "Naruči"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:313
+msgid "Year newest first"
+msgstr "Prvo mlađa"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:316
+msgid "Year oldest first"
+msgstr "Prvo starija"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:319
+msgid "Price higher first"
+msgstr "Prvo skuplja"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:322
+msgid "Price lower first"
+msgstr "Prvo jeftinija"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:325
+msgid "Mileage higher first"
+msgstr "Prvo sa više kilometraže"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:328
+msgid "Mileage lower first"
+msgstr "Prvo sa manje kilometraže"
+
+#: f:/wordpress/cardealer/trunk/includes/search/search-function.php:349
+msgid "Price Range"
+msgstr "Raspone cene"
+
+#: f:/wordpress/cardealer/trunk/includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr ""
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:90
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:102
+msgid "Model"
+msgstr "Model"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:116
+msgid "Cond"
+msgstr "Stanje"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:117
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:108
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:121
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:255
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:274
+msgid "HP"
+msgstr "HS"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-functions.php:147
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:104
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:115
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:251
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:268
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:84
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:180
+msgid "Call for Price"
+msgstr "Pozovi za cenu"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:136
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:172
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:280
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:322
+#: f:/wordpress/cardealer/trunk/includes/templates/template-single.php:37
+msgid "Back"
+msgstr "Nazad"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:137
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:173
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:281
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:323
+msgid "Onward"
+msgstr "Pozovi za cenu"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom.php:147
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:183
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom2.php:290
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:332
+msgid "Not Found !"
+msgstr "Nije pronađeno !"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom1.php:160
+#: f:/wordpress/cardealer/trunk/includes/templates/template-showroom3.php:313
+msgid "View"
+msgstr "Pogledaj"
+
+#: f:/wordpress/cardealer/trunk/includes/templates/template-single.php:51
+msgid "Contact Us"
+msgstr "Kontaktiraj nas"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:15
+msgid "A list of Recent cars"
+msgstr "Lista najčešćih auta"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:41
+msgid "New Arrivals"
+msgstr "Novopristigli"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:107
+msgid "A list of Featured car-s"
+msgstr "Lista izabranih automobila"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:131
+msgid "Featured cars"
+msgstr "Izabrani automobili"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:211
+msgid "Search cars"
+msgstr "Pretraži automobile"
+
+#: f:/wordpress/cardealer/trunk/includes/widgets/widgets.php:223
+msgid "Title"
+msgstr "Naslov"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:16
+msgid "Choose your currency, metric system and so on."
+msgstr "Izaberi valutu, sistem jedinica i td."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:21
+msgid "Currency"
+msgstr "Valuta"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:40
+msgid "Miles - Km"
+msgstr "Milje - Km"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:42
+msgid "Miles"
+msgstr "Milje"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:43
+msgid "Kms"
+msgstr "Km"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:44
+msgid "Hours"
+msgstr "Sati"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:50
+msgid "Liters - Gallons"
+msgstr "Litri - Galoni"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:52
+msgid "Liters"
+msgstr "Litri"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:53
+msgid "Gallons"
+msgstr "Galoni"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:70
+msgid "How many cars would you like to display per page?"
+msgstr "Koliko auta želiš da prikažeš po strani?"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:94
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Skloni Sidebar sa strane rezultata pretrage"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:103
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Zameni Wordpress Galeriju sa Flexslider Galerijom"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:112
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr "Prikaži slike u odnosu 2:1 ili 4:3 ?"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:121
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Dozvoli Kontakt formu u stranici pojedinačnih automobila?"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:130
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual car page."
+msgstr ""
+"Upiši tvoj kontakt Email da primiš Email sa svoje Kontakt Forme sa strane "
+"pojedinačnog automobila."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:135
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "Na strani izložbenog prostora, upoterbi prikaz Galerije ili Liste"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:142
+msgid ""
+"Here you can manage the car features/equipments fields to your car form."
+msgstr "Ovde možeš da urediš karakteristike/opremu auta po poljima forme."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:144
+msgid "Just add one or more field names - one for each line -"
+msgstr "Dodaj jedno ili više imena za polja - po jedno u svakom redu -"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:147
+msgid "For example: GPS, DVD, and so on... "
+msgstr "Na primer: GPS, DVD, i td... "
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:149
+msgid "Don't use special characters."
+msgstr "Ne upotrebljavaj specijalne karaktere."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:155
+msgid "Add this fields to Car Form. Only one field each line:"
+msgstr "Dodaj ovo polje u formu automobila. Po jedno polje za svaku liniju:"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:158
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+"Podesi opcije pretrage. Izaberi polja koja se prikazuju na traci za pretragu."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:163
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:220
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:278
+msgid "Show the Make control"
+msgstr "Prikaži kontrolu modela"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:172
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:229
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:287
+msgid "Show the Fuel type control"
+msgstr "Prikaži kontrolu goriva"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:181
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:238
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:296
+msgid "Show the Year control"
+msgstr "Prikaži kontrolu godina"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:190
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:256
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:314
+msgid "Show the Transmission control"
+msgstr "Prikaži kontrolu prenosa"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:199
+msgid "Show the Price slider"
+msgstr "Prikaži klizač cene"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:208
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:265
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:323
+msgid "Show the Order By Control"
+msgstr "Prikaži kontrolu porudžbine"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:215
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Podesi opcije pretrage Widgeta. Izaberi polja koja će se prikazati u Widgetu "
+"pretrage."
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:247
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:305
+msgid "Show the Price control"
+msgstr "Prikaži kontrolu cena"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:336
+msgid "Search Button Background Color"
+msgstr "Pozadinska boja tastera pretrage"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:341
+msgid "Search Button Color"
+msgstr "Boja tastera pretrage"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:346
+msgid "Background Color"
+msgstr "Pozadinska boja"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:350
+msgid "Foreground Text Color"
+msgstr "Boja prednjeg teksta"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:354
+msgid "Label Color"
+msgstr "Boja nalepnice"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:358
+msgid "Select Border Color"
+msgstr "Izaberi boju okvira"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:362
+msgid "car Background Page Color"
+msgstr "Pozadinska boja automobila"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:366
+msgid "car Box Border Color"
+msgstr "Boja okvira automobila"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:370
+msgid "Select Title Color"
+msgstr "Izaberi boju naslova"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:375
+msgid "Single car Page Background Color"
+msgstr "Pozadinska boja strane pojedinačnog automobila"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:379
+msgid "Single car Page Foreground Text Color"
+msgstr "Prednja boja strane pojedinačnog automobila"
+
+#: f:/wordpress/cardealer/trunk/settings/options/plugin_options_tabbed.php:383
+msgid "Customized CSS"
+msgstr "Prilagođeni CSS"
+
+#~ msgid "Agents"
+#~ msgstr "Agenti"
+
+#~ msgid "Featured Images"
+#~ msgstr "Izabrane slike"
+
+#~ msgid "The amount of miles on this car . Only numbers, no point, no comma."
+#~ msgstr ""
+#~ "Pređena kilometraža automobila. Samo brojevi, bez tačke, bez zareza."

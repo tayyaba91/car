@@ -1,0 +1,448 @@
+/* Slider */
+#cardealer_meta_price2
+{
+  margin-top: 25px;  
+  margin-left: 10px;
+  max-width: 100%;
+  font-size: 12px;
+}
+/* All block  */
+.cardealer-price-slider2
+{
+   float: left; 
+   position: relative;
+   clear: both;
+   margin-top: 2px;
+   padding: 3px;
+   border-radius: 4px;
+   min-height: 57px;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border: 1px solid gray; 
+   padding-bottom:  0px;
+   margin-bottom: 15px;
+   background: white;
+   padding-right: 15px;
+   width: 100%;
+   margin-left: 6px;
+}
+/* Label */
+.cardealerlabelprice2
+{
+	float: left;
+	padding-left: 3px;
+	max-width: 40% !important;
+    max-height: 45px;
+    margin-top: 0px; 
+    text-align:left;
+    position: relative;
+    width:  100%;
+    font-size: 10px;
+}
+/* Row Price */
+#meta_price2
+{
+  /* Min - Max */
+  font-size: 9px;
+  border: 0px;
+  background: transparent;
+  margin-top:  -4px; 
+  vertical-align: top; 
+  max-width: 55%;
+  float: left;
+  padding-left: 5px; 
+}
+#cardealer_meta_price
+{
+  margin-top: -25px; 
+  margin-left: 10px;
+  max-width: 100%;
+}
+.CarDealer-submitBtnWrap
+{
+   float: left; 
+   margin-top: -10px;
+   position: relative;
+   clear: both;
+}
+/* All block  */
+.cardealer-price-slider
+{
+   float: left; 
+   position: relative;
+   clear: both;
+   margin-top: 15px;
+   padding: 8px;
+   border-radius: 4px;
+   min-height: 70px;
+   -moz-border-radius: 4px;
+   -webkit-border-radius: 4px;
+   border: 1px solid gray; 
+   padding-bottom:  0px;
+   margin-bottom: -15px;
+   min-width: 240px;
+   padding-right: 20px;
+}
+.cardealerlabelprice
+{
+	float: left;
+	padding-left: 0px;
+    padding-right: 20px;
+	max-width: 220px !important;
+	min-width: 90px !important;
+    max-height: 45px;
+    margin-top: 0px; 
+    text-align:left;
+    position: relative;
+    width:  100%;
+    font-size: 14px;
+}
+/* Row Price */
+#meta_price
+{
+  font-size: 12px;
+  border: 0px;
+  background: transparent;
+  margin-top:  -28px; 
+  margin-left: 40px;
+  vertical-align: top; 
+  max-width: 145px;
+  /* float: left; */
+  padding-left: 5px; 
+  max-height: 40px;
+  text-align: right;
+  padding-right: 25px;
+}
+#CarDealerp_oneline
+{
+  min-height: 0px;
+  max-height: 0px;
+}
+.sideTitle
+{
+	color: white;
+	font-size: 16px;
+	font-weight: 300;
+	padding: 0px;
+	position: relative;
+	background-color: gray;
+	margin-top: 10px;
+    margin-bottom: 0px;
+    border-radius: 4px 4px 0px 0px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.CarDealer-search-cuore
+{
+	width: 90% !important;
+    margin: auto;
+    text-align:  center;
+    margin-left: 0px;
+    font-size: 18px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+}
+.CarDealer-search-cuore-fields
+{
+    margin: auto;
+    text-align:  center;
+}
+.searchItem:after
+{
+	clear: both;
+	display: block;
+	content: "";
+}
+.searchItem2:after
+{
+	clear: both;
+	display: block;
+	content: "";
+}
+.searchItem
+{
+	float: left;
+	padding-left: 0px;
+    padding-right: 10px;
+	max-width: 220px !important;
+	min-width: 90px !important;
+    margin-top: 5px;
+}
+.searchItem2
+{
+	float: left;
+	padding-left: 0px;
+    padding-right:10px;
+	max-width: 220px !important;
+	min-width: 90px !important;
+    max-height: 45px;
+    margin-top: 20px;
+}
+.CarDealer-search-span
+{
+	font-weight: 200;
+	padding: 0px;
+	font-size: 140%;
+	color: gray;
+	background: #EBEAED;
+    margin-bottom: 10px;
+    padding: 2px;
+    height: 40px;
+}
+.fix-check
+{
+	width: 199px;
+	float: left;
+	height: 36px;
+	margin-right: 25px;
+}
+.search-label
+{
+	color: #666;
+	top: 9px;
+	padding-right: 2px;
+    font-size: 14px;
+}
+.cars-wrap:after
+{
+	content: " ";
+	display: block;
+	clear: both;
+}
+.CarDealer-search-box:after
+{
+	clear: both;
+	display: block;
+	content: "";
+}
+.CarDealer-search-box
+{
+	width: 100%;
+    min-height: 00px;
+	border-top: 0px solid #CCCCCC;
+	border-bottom: 0px solid #CCCCCC;
+	margin-bottom: 10px;
+	border: 0px solid #E8E6E6;
+	padding: 0px; 
+    margin:0px;
+    margin-right: 0px !important;
+    color: gray;
+    max-width: 100%;
+    text-align: center;
+    font-size: 16px;
+    margin-left: -5px;
+}
+.CarDealer-search-box .input-box
+{
+	padding: 3px;
+	margin-bottom: 1px;
+	font-size: 100%;
+	height: 40px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border: 1px solid #EBEBEB;
+}
+#CarDealer-submitBtn:hover
+{
+	opacity: .7;
+}
+.CarDealer-search-box:hover .input-box:hover
+{
+	opacity: .7;
+}
+.CarDealer-search-box #CarDealer-submit
+{
+	border: none;
+	border-radius: 0px;
+	padding: 5px;
+	float: right;
+	cursor: pointer;
+	height: 35px;
+	margin-left: 20px;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border: 0px solid #800000;
+}
+#CarDealer-submitBtn
+{
+    float: left;
+	text-align: center;
+	padding: 4px !important;
+	padding-top: 10px;
+	height: 40px !important;
+	width: 120px;
+	font-size: 16px !important;
+	font-weight: bold !important;
+	border: 0px solid #FF0000;
+    margin-left: 0px;
+    margin-top: 40px !important;
+    Background: gray;
+}
+	 .input-box, .select-box-meta, .select-box
+	{
+		padding: 2px;
+		margin-bottom: 1px;
+		max-width: 100px !important;
+		height: 30px !important;
+     	font-size: 14px !important;
+     	height: 30px;
+    	border-radius: 4px;
+    	-moz-border-radius: 4px;
+    	-webkit-border-radius: 4px;
+        border: 1px solid gray;
+	}
+ 	 .select-box-meta
+	{
+      float: left;
+	}
+@media screen and (max-width: 1000px)
+{
+	#CarDealer-submitBtn
+	{
+		text-align: center;
+		padding: 2px !important;
+		padding-top: 0px !important;
+		height: 35px !important;
+		width: 100px;
+		font-size: 14px !important;
+        margin: auto;
+        margin-top: 40px !important;
+	}
+	 .input-box, .select-box-meta, .select-box
+	{
+		padding: 2px;
+		margin-bottom: 1px;
+		max-width: 80px !important;
+		height: 30px !important;
+		font-size: 95% !important;
+	}    
+	.searchItem, .searchItem2
+	{
+		font-size: 85%;
+	}
+    .searchItem, .searchItem2
+    {
+    	padding-right: 5px;
+    }
+    .search-label
+    {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 800px)
+{
+	#CarDealer-submitBtn
+	{
+		text-align: center;
+		padding: 1px !important;
+		padding-top: 0px !important;
+		height: 35px !important;
+		max-width: 90px;
+		font-size: 11px !important;
+        margin-top: 40px !important;
+	}
+	 .input-box, .select-box-meta, .select-box
+	{
+		padding: 2px;
+		margin-bottom: 1px;
+		max-width:70px !important;
+		height: 30px !important;
+		font-size: 12px !important;
+	}
+	.searchItem, .searchItem2
+	{
+		font-size: 85%;
+        float: left;
+        padding-bottom: 10px;
+	}
+    .searchItem, .searchItem2
+    {
+    	padding-right: 10px;
+    }
+    .CarDealer-search-box
+    {
+      margin-left: 20px;  
+    }    
+}
+@media screen and (max-width: 700px)
+{
+	 .input-box, .select-box-meta, .select-box
+	{
+		padding: 2px;
+		margin-bottom: 1px;
+		max-width:80px !important;
+		height: 30px !important;
+		font-size: 12px !important;
+	}
+}
+@media screen and (max-width: 801px)
+{
+	#CarDealer-submitBtn
+	{
+		text-align: center;
+		padding: 1px !important;
+		padding-top: 0px !important;
+		height: 30px !important;
+		font-size: 12px !important;
+        margin-top: 35px !important;
+	}
+	 .input-box, .select-box-meta, .select-box
+	{
+		margin: 5px;
+		font-size: 95% !important;
+        float: right;
+        width: 100px !important;
+	}
+    .search-label
+    {
+        font-size: 14px;
+    }
+	.searchItem, .searchItem2
+	{
+		font-size: 100%;
+        min-width: 100% !important;
+	}
+     .search-label
+    {
+       float: left;
+    }
+ #meta_price
+    {
+      float: right !important; 
+      padding-right: 0px;
+      text-align: right;
+      width: 100%;
+    }
+  #cardealer_meta_price
+  {
+      margin-top: 60px; 
+  }
+  .cardealer-price-slider
+  {
+     min-height: 100px !important;
+  } 
+   #meta_price {
+     margin-top: 0px !important;
+    }
+}
+.ui-slider .ui-slider-handle
+{
+  width: 1.3em !important;
+  height:  1.3em !important;
+  border-radius:  50%;
+  margin-top: -1px;
+}
+@media screen and (max-width: 500px) {
+    .CarDealer-search-box {
+       margin-left: -10px; 
+    }
+    .CarDealer-search-cuore
+    {
+    	width: 50% !important;
+
+    }
+}

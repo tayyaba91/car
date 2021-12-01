@@ -1,0 +1,92 @@
+.inside
+{
+    
+  height:  auto !important;  
+    
+}
+
+	.clear {
+	clear:both;
+	width:100%;
+	color:#333;
+	}
+	.boxes textarea {
+		background: none repeat scroll 0 0 #EBEAED ;
+		border: 1px solid #EBEAED EBEAED ;
+		border-radius: 5px 5px 5px 5px;
+		color: #555555;
+		font-size: 14px;
+		overflow: hidden;
+		padding: 5px;
+		}
+    input[type=checkbox], input[type=radio] {
+        height: 20px;
+        width: 20px;
+    }    
+    .boxes input, .boxes-small input, .boxes-googlemaps input  {
+		background: none repeat scroll 0 0 #EBEAED ;
+		border: 1px solid #EBEAED ;
+		border-radius: 5px 5px 5px 5px;
+		color: #555555;
+		font-size: 16px;
+		overflow: hidden;
+		padding: 5px;
+        max-width: 100px;
+		}
+     
+	.clearRoom {
+		clear:both;
+		width:100%;
+		color:#333;
+		background-color:#EEEEEE;
+		height:95px;
+		border-radius:6px;
+		border:1px solid #EBEAED ;
+		margin-bottom:5px;
+	}
+	.box-label {
+		font-family: "Arial", sans-serif;
+		font-size:18px;
+		margin-bottom:10px;
+	}
+	.boxes {
+		/* float:left; */
+        width: 90%;
+		height:70px;
+		padding:10px;
+		margin:13px;
+		border-radius:5px;
+		font-family: "arial", sans-serif;
+        border: 1px solid #d4d4d4;
+    }
+	.boxes-small {
+        width: 90%;
+		min-height:70px;
+		padding:10px;
+		margin:13px;
+		border-radius:5px;
+		font-family: "arial", sans-serif;
+        border: 1px solid #d4d4d4;
+    }
+   	.boxes-googlemaps {
+        width: 90%;
+		height:220px;
+		padding:10px;
+		margin:13px;
+		border-radius:5px;
+		font-family: "arial", sans-serif;
+        border: 1px solid #d4d4d4;
+    }   
+	select {
+	   background: transparent;
+	   width: 170px;
+	   padding: 5px !important;
+	   font-size: 14px;
+	   border: 1px solid #EBEAED ;
+	   height: 29px !important;
+	   overflow: hidden;
+	   background-color: #EBEAED ;
+   	   border: 1px solid #EBEAED ;
+	   color: #555555;
+	   border-radius: 5px 5px 5px 5px;
+	}

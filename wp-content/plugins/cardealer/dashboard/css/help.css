@@ -1,0 +1,360 @@
+#containerright-dashboard h2 {
+  border-bottom: 5px solid #ccc;
+  padding-bottom: 5px;
+  text-shadow: 5px 5px 10px #888;
+}
+#containerright-dashboard
+{
+float: right;
+/* background: lightgreen; */
+/* width: 300px; */
+/* max-width: 29%; */
+margin-top: 5px; 
+padding: 0px; 
+}
+#containerright-dashboard ul { 
+  /* max-width: 300px; */
+  padding: 5px 10px 15px 30px;
+  margin-left: 5px;
+  border: 1px solid #bbb;
+  border-radius: 5px;
+  list-style: disc;
+  -moz-box-shadow: 5px 5px 15px #aaa;
+  -webkit-box-shadow: 5px 5px 15px #aaa;
+  box-shadow: 5px 5px 15px #aaa; 
+}
+#containerright-dashboard img { 
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+
+#cardealer-dashboard-left{
+  float:left;
+  max-width: 74%;
+}
+
+#cardealer-dashboard-right{
+  float:right;
+  max-width: 25%;
+  /* background: yellow; */
+  margin-right: 1%;
+}
+
+
+#cardealer-social {
+  padding-top:0px;
+  float:right;
+  margin-top: -54px;
+  display:block;
+  margin-right: 12px;
+}
+
+@media screen and (max-width: 900px) {
+  #cardealer-dashboard-right{
+     display:none;
+  }
+  #cardealer-dashboard-left{
+    max-width: 100%;
+  }
+}
+
+
+#pluginfix-wpconfig
+{
+	margin: .5em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+}
+.button-primary, .button-Secondary, .button-secondary{
+    margin-top: 5px !important;
+}
+#memory-tab{
+    font-size: 20px;
+    padding: 20px;
+    line-height: 22px;  
+     overflow:auto;
+     height: auto; 
+}
+#freebies-tab{
+    font-size: 20px;
+    padding: 20px;
+    line-height: 22px;  
+    height: 330px;
+    margin-top: 20px;  
+}
+.freebies-tab-link{
+    font-size: 26px;
+    height: 30px; 
+    margin-top: -0px !important;
+    margin-left: 20px;
+    top: -5px;
+    position: relative;
+}
+.freebies-tab-icon
+{  
+  margin-top:0px;
+  padding-top: 0px;
+  max-width: 30px;
+}
+.freebies-row
+{  
+  height: 50px;
+  vertical-align: top !important;
+  width: 100%;
+  margin: 0 auto;
+  text-align: left;
+  padding: 0px;
+}
+#cardealer-not-activated{
+    display: none;
+    width: 400px;
+    height: 200px;    
+}
+   #cardealer-update-theme{
+    padding: 20px;
+    font-size: 14px;
+   }
+#cardealer-theme-help-wrapper{
+      margin-top: 0px;
+      max-width: 100%;
+      width: 100%;
+      min-height: 100%;
+      padding: 0px;  /* 20px  0px  0px; */
+      margin: -0px 0px 20px 0px;
+} 
+.bill-feedback-cardealer, .bill-support-cardealer, .bill-desactivate-cardealer {
+    display: none;
+	margin: .5em;
+    max-width:650px;
+    margin-right: 2em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    font-size: 14px;
+}
+#cardealer-logo {
+     padding-top:0px;
+     margin-left: -7px;
+     clear: both;
+     
+   }
+#cardealer_help_title
+{
+  font-size:26px;
+  max-width:100% !important;
+  margin:0 auto;
+  text-align: center;
+  padding: 20px;
+  Color: gray; /* #0546AE; */
+  margin-top: -55px;
+  font-weight:bold;
+}
+   #cardealer-status-box{
+     margin-top: 20px;
+     min-height: 220px;
+     /* height:220px; */
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 30px;
+     padding: 0px;
+     margin-right: 15px;
+    /*  margin:0px; */
+   }
+   #connect_status {
+     float:left;
+   }
+   #cardealer-help-status{
+    height: 42px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+   }
+   #cardealer-connect-tip{
+    margin-top: -20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    vertical-align: middle ;
+    padding: 20px;
+   }
+   .cardealer_status_row{
+     float: left;
+     margin-left: 5px;
+     font-size: 22px;
+       position: relative;
+    top: 25%;
+    margin-top:  0;
+   }
+   #cardealer-btn-connect-now{
+     float: left;
+     margin-left: 35px !important;
+   }
+   #cardealer-steps3{
+     margin-top: 10px;
+     min-height: 430px;
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 15px;
+     margin-right: 15px;
+   }
+   #cardealer-services3{
+     margin-top: 15px;
+     min-height: 330px;
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-right: 15px;
+   } 
+  .cardealer-help-container1 {
+    display: flex;
+    font-size: 14px;
+}
+.cardealer-help-column {
+    -webkit-flex: 1;
+    flex: 1;
+    padding:15px;
+    box-sizing: border-box;
+    text-align:left;
+    max-width: 33% !important;
+    overflow: hidden;
+    font-size: 16px;
+}
+.cardealer-help-column-1 {
+    order: 1;
+        padding:25px;
+}
+.cardealer-help-column-2 {
+    order: 2;
+        padding:25px;
+}
+.cardealer-help-column-3 {
+    order: 3;
+        padding:25px;
+}
+.cardealer-block-title
+{
+  font-size:25px;
+  max-width:100% !important;
+  margin:0 auto;
+  text-align: center;
+  padding: 10px;
+  background-Color: #5b9dd9; /*#A5A5A5;  #0546AE; */
+  color:white;
+}
+h3
+{
+  Color: #0546AE;
+}
+#cardealer-imagewait
+{
+  padding-left: 20px;
+}
+#cardealer-faq-page
+{
+     margin-top: 20px;
+    /*  min-height: 430px; */
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 15px;
+     margin-right: 15px;
+     font-size: 18px;
+     line-height: 20px;
+     padding: 0px;
+}
+#cardealer-memory-page
+{
+     margin-top: 20px;
+    /*  min-height: 430px; */
+     max-width: 100%;
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     margin-bottom: 15px;
+     margin-right: 15px;
+     font-size: 18px;
+     line-height: 20px;
+     padding: 0px;
+     overflow:auto;
+     height: auto;
+}
+#cardealer-freebies-page
+{
+     border:  1px solid gray;
+     border-radius: 5px;
+     background: white;
+     font-size: 18px;
+     line-height: 20px;
+     padding: 0px;
+     margin: 20px;
+     max-width: 100%;
+     text-align: center;
+}
+.bill-faq-cardealer-wrap
+{
+	margin: .5em;
+	background: #eee;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 10px #173859;
+	-moz-box-shadow: 0 0 10px #173859;
+	box-shadow: 0 0 10px #173859;
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+}
+.bill-faq-cardealer
+{
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+@media screen and (max-width: 1100px) {
+ #cardealer-logo-image {
+   max-width: 200px;
+   } 
+    #cardealer_help_title
+    {
+      margin:0 auto;
+    }
+}
+@media screen and (max-width: 800px) {
+    .cardealer-help-container1 {
+        display: block;
+        max-height: 100%;
+        height:100%
+    }
+    .cardealer-help-column {
+        min-width: 100% !important;
+    }
+    .cardealer-help-column-1 {
+      min-width:100%;
+    }
+    .cardealer-help-column-2 {
+      min-width:100%;
+    }
+    .cardealer-help-column-3 {
+      min-width:100%;
+    }
+}

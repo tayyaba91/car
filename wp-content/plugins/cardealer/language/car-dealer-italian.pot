@@ -1,0 +1,722 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Car Dealer Italian\n"
+"Report-Msgid-Bugs-To: sergio minozzi\n"
+"POT-Creation-Date: 2019-01-23 15:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en\n"
+"X-Loco-Project-Id: 61460\n"
+"X-Loco-Api-Version: 1.0.21 20190110-1"
+
+#: loco:5c48828aa08ef139291e4871
+msgid " Go to car  Settings tab and choose your currency, metric system etc..."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4872
+msgid "Add Fields Form"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4873
+msgid "Add New locations"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4874
+msgid "Add New makes"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4875
+msgid "Add any Feature Field (Settings => Field Features)"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4876
+msgid "Add one Featured Image"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4877
+msgid "Add or Remove locations"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4878
+msgid "Add or Remove makes"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4879
+msgid "Add this fields to Car Form. Only one field each line:"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e487a
+msgid "Agents"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e487b
+msgid "Any"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e487c
+msgid "Automatic"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e487d
+msgid "Back"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e487e
+msgid "Biodiesel"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e487f
+msgid "Body Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4880
+msgid "Body Type"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4881
+msgid "CNG"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4882
+msgid "Call For Price"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4883
+msgid "Call for Price"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4884
+msgid "Cancel"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4885
+msgid "Car Body Type."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4886
+msgid "Car Details"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4887
+msgid "Car Type"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4888
+msgid "Choose your currency, metric system and so on."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4889
+msgid "Click Publish to Save."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e488a
+msgid "Click Update to Save"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e488b
+msgid "Color of the Interior"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e488c
+msgid "Cond"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e488d
+msgid "Contact Us"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e488e
+msgid "Coupe"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e488f
+msgid "Currency"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4890
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4891
+msgid "Customized CSS"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4892
+msgid "Damaged"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4893
+msgid "Diesel"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4894
+msgid ""
+"Don't forget to fill out the field price. Otherwise, the car does'n show up "
+"at search results."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4895
+msgid "Don't use special characters."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4896
+msgid "Edit and Trash Cars"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4897
+msgid "Edit and Trash Fields"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4898
+msgid "Edit locations"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4899
+msgid "Edit makes"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e489a
+msgid "Electric"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e489b
+msgid "Enable Contact Form in Single Product Page?"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e489c
+msgid "Engine"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e489d
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e489e
+msgid "Engine."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e489f
+msgid "Ethanol"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a0
+msgid "Faq Page"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a1
+msgid "Featured Image"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a2
+msgid "Features"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a3
+msgid "Fill Out all info"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a4
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual car page."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a5
+msgid "Follow this steps"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a6
+msgid "For example: Ford, Fiat, Volkswagen..."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a7
+msgid "For example: GPS, DVD, and so on... "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a8
+msgid "For example: wifi, gps, alarm and so on..."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48a9
+msgid "Foreground Text Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48aa
+msgid "Fuel"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ab
+msgid "Fuel Capacity"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ac
+msgid "Fuel Type"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ad
+msgid "Fuel Type."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ae
+msgid "Gallons"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48af
+msgid "Gasoline"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b0
+msgid "Go to Field Features and add some fields. "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b1
+msgid ""
+"Go to Locations and add some, if you have more than one. This is Optional."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b2
+msgid "Go to Makes and add some makers. "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b3
+msgid "HP"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b4
+msgid ""
+"Here you can manage the car features/equipments fields to your car form."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b5
+msgid "Hours"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b6
+msgid "Hybrid"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b7
+msgid "Images Gallery"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b8
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48b9
+msgid "Interior Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ba
+msgid "Interior Material"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48bb
+msgid "Just add one or more field names - one for each line -"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48bc
+msgid ""
+"Just create one wordpress gallery. Our plugin will create automatically one "
+"nice slider gallery.\n"
+"For details how to create a wordpress gallery, check the wordpress site."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48bd
+msgid "Kms"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48be
+msgid "Label Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48bf
+msgid "Lenght"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c0
+msgid "Liters"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c1
+msgid "Liters - Gallons"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c2
+msgid "Load images "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c3
+msgid "Location"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c4
+msgid ""
+"Look our demo in our site how to upload and crop images (less than 2 minutes)"
+"."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c5
+msgid "Luxury Car"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c6
+msgid "Make"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c7
+msgid "Manual"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c8
+msgid "Mark to show up at Featured Widget."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48c9
+msgid "Mileage higher first"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ca
+msgid "Mileage lower first"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48cb
+msgid "Miles"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48cc
+msgid "Miles - Km"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48cd
+msgid "Model"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ce
+msgid "New"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48cf
+msgid "New Arrivals"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d0
+msgid "New locations"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d1
+msgid "New makes"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d2
+msgid "New/Used"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d3
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d4
+msgid "Not Found !"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d5
+msgid "OnLine Guide"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d6
+msgid "Only numbers. No point, no comma."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d7
+msgid "Onward"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d8
+msgid "Options"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48d9
+msgid "Order By"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48da
+msgid "Other"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48db
+msgid "Overview"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48dc
+msgid "Parent locations"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48dd
+msgid "Parent locations:"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48de
+msgid "Parent makes"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48df
+msgid "Parent makes:"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e0
+msgid "Passenger Capacity"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e1
+msgid "Passenger Capacity. Only numbers."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e2
+msgid "Paste this shortcode there"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e3
+msgid "Permalinks"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e4
+msgid "Please type your email"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e5
+msgid "Please type your message"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e6
+msgid "Please type your name"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e7
+msgid "Price"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e8
+msgid "Price higher first"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48e9
+msgid "Price lower first"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ea
+msgid "Remove Sidebar from Search Result Page"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48eb
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ec
+msgid "Request Information"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ed
+msgid "Search"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ee
+msgid "Search Button Background Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ef
+msgid "Search Button Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f0
+msgid "Sedan"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f1
+msgid "Select Title Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f2
+msgid "Send"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f3
+msgid "Separate locations with commas"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f4
+msgid "Separate makes with commas"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f5
+msgid "Set Permalinks to Post Name "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f6
+msgid "Show the Condition (new/used) control"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f7
+msgid "Show the Fuel type control"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f8
+msgid "Show the Make control"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48f9
+msgid "Show the Price slider"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48fa
+msgid "Show the Transmission control"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48fb
+msgid "Show the Type Body control"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48fc
+msgid "Show the Year control"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48fd
+msgid "Single car Page Background Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48fe
+msgid "Single car Page Foreground Text Color"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e48ff
+msgid "Specs"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4900
+msgid "Sport Utility Vehicle"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4901
+msgid "Sports Car"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4902
+msgid "Support Page"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4903
+msgid "That's all. I hope you enjoy it "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4904
+msgid "The amount of "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4905
+msgid "The amount of miles on this car . Only numbers, no point, no comma."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4906
+msgid "The year of the model. Only numbers, no point, no comma."
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4907
+msgid "Tiptronic"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4908
+msgid "Title"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4909
+msgid "To install, just go to "
+msgstr ""
+
+#: loco:5c48828aa08ef139291e490a
+msgid "Transmission"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e490b
+msgid "Update locations"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e490c
+msgid "Update makes"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e490d
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e490e
+msgid "Use thumnails with size 1 X .5 or 1 X .75 ?"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e490f
+msgid "Used"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4910
+msgid "Van"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4911
+msgid "View"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4912
+msgid "Wagon"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4913
+msgid "We have 3 dedicated Widgets"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4914
+msgid "What kind of Transmission is this"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4915
+msgid "Year"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4916
+msgid "Year newest first"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4917
+msgid "Year oldest first"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4918
+msgid "Your Email"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e4919
+msgid "Your Message"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e491a
+msgid "Your Name"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e491b
+msgid "and install them"
+msgstr ""
+
+#: loco:5c48828aa08ef139291e491c
+msgid "car Background Page Color"
+msgstr ""
