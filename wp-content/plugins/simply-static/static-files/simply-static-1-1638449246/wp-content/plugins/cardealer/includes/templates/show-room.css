@@ -1,0 +1,51 @@
+code
+{
+  background-color: transparent !important;  
+}
+pre
+{
+  border: 0px !important;
+  padding: 0px !important;
+  overflow: visible !important;
+     
+}
+#cardealer_container
+{
+  padding-top:10px !important;
+}
+#cardealer_container_search
+{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.select-box-meta option  
+ {
+    width:120px !important;
+   	font-size: 100%;
+} 
+    .img_multiGallery
+{
+    border: 0px solid #6e6e71 !important;
+}
+.cardealer_navigation 
+{
+    width: 100%;
+    margin:auto;
+    text-align:center;
+    padding: 0px;
+    margin-top: 0px;
+    padding-bottom: 30px;
+    padding-top:  10px;
+}
+#cardealer_content {
+	margin-left: 0px;
+	padding: 0px;
+    width: 100% !important; 
+    white-space: normal; 
+}
+@media only screen and (max-width: 800px)
+{
+    	#cardealer_content {
+    	font-size: 12px !important; 
+        }
+}

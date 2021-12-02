@@ -1,0 +1,163 @@
+    .search-label-widget
+    {
+        font-size: 12px;
+        float: left !important;
+        margin-left: 0px;
+        border-radius: 4px; 
+        padding: 0 3px 0 3px;
+    }
+   	 .select-box-widget
+	{
+        float: right;
+     	max-width: 80px !important;
+    	min-width: 80px !important;
+        border-radius: 4px;
+        border: 1px solid #6e6e71;
+        font-size: 12px;
+	}
+       	 .select-box-meta-widget
+	{
+       float: right;
+           	max-width: 80px !important;
+    	    min-width: 80px !important;
+            border-radius: 4px;
+            border: 1px solid #6e6e71;
+            font-size: 12px;
+	}
+    	 .input-box-widget
+	{
+        float: right !important;
+	}
+    	.searchItem-widget, .searchItem2-widget
+	{
+        float:left !important;
+        width: 100%;
+        margin: 2px;
+	}
+    #CarDealer-submitBtn-widget
+    {
+    	text-align: center;
+    	padding: 4px !important;
+    	padding-top: 3px;
+    	color: #FFFFFF !important;
+    	height: 35px !important;
+    	width: 90px;
+    	font-size: 12px !important;
+    	font-weight: bold !important;
+    	border: 0px solid #FF0000 !important;
+        margin-left: 7px;
+        margin-top: 0px;
+        margin-top: 15px;
+        background: #6e6e71;
+    }
+    .CarDealer-search-box-widget
+{
+	width: 100%;
+    min-height: 100px;
+	border-top: 0px solid #CCCCCC;
+	border-bottom: 0px solid #CCCCCC;
+	margin-bottom: 10px;
+	border: 0px solid #E8E6E6;
+	/* padding: 0px;  */
+    padding-top: 10px; /* 2017 */
+    padding-left: 15px; /* 2017 */
+    padding-bottom: 15px; /* 2017 */
+    padding-right: 10px;
+    margin:0px;
+    margin-right: 0px !important;
+    color: #6e6e71;
+    max-width: 100%;
+    text-align: center;
+    font-size: 14px;
+    margin-top: -10px;
+    margin-bottom: 30px !important;
+    background: #E8E6E6;
+    height: auto;
+    overflow: hidden;
+}
+.multiTitle-widget {
+    color: white;
+    font-size: 12px;
+    margin-top: 0px;
+    max-height: 30px;
+    background: #6e6e71; 
+    padding-top:  0px;
+    padding-bottom: 0px;
+    max-width: 100%;
+    text-align: center;
+    border-radius: 0 0 0px 0px;
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0px;
+    background-image: url("http://tayyaba91.github.io/car/wp-content/plugins/cardealer/assets/images/info.png");
+    background-position : right top; 
+    background-repeat: no-repeat;
+    background-size: auto 100%;  
+}
+.multiGallery_widget
+{
+    width:100%;
+}
+.CarDealer_gallery_2016_widget { 
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  width: 100%;  
+  height: auto;
+  border:  1px solid #6e6e71;
+  border-bottom: 1px;
+  border-radius: 0px 0px 0px 0px;  
+}
+.CarDealer_caption_img_widget { 
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0px 0px 0px 0px;
+  margin:  0 0px 0 0px;
+  max-width: 100%;
+}
+.CarDealer_caption_text_widget { 
+  background-color: #000; 
+  background-color: rgba(0,0,0,0.8); 
+  color: white; 
+  padding: 5px 10px; 
+  text-align: left; 
+  opacity: 0;
+  filter: alpha(opacity=0);
+  position: absolute;
+  top: 0; 
+  left: 0; 
+  right: 0;
+  -webkit-transition: opacity 0.4s ease;
+     -moz-transition: opacity 0.4s ease;
+          transition: opacity 0.4s ease;
+  font-family: Geneva, Arial, Helvetica, Sans-serif;
+  max-width: 100%; 
+  height: auto;
+  border-radius: 0px 0px 0px 0px;
+  margin-left: 0px;
+  line-height: 95%;
+}
+.CarDealer_gallery_2016_widget:hover .CarDealer_caption_text_widget { 
+  opacity: .6;
+  filter: alpha(opacity=100);
+}
+.CarDealer_container_widget {
+    font-size: 0; /*fix white space*/
+     text-align: center;
+     margin: auto;
+     width: 100%;
+     margin-top: 20px;
+}
+.CarDealer_container_widget > div {
+    font-size: 14px; 
+    display: inline-block;
+    vertical-align: top;
+    max-width: 33%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 2px !important; 
+    border:  0px solid #DFDFDF;
+}

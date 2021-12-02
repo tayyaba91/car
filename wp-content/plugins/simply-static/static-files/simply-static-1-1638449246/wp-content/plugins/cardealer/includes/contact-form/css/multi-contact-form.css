@@ -1,0 +1,373 @@
+#CarDealer_sendingMessage,
+
+#CarDealersuccessMessage,
+
+#CarDealerfailureMessage,
+
+#CarDealerincompleteMessage
+
+{
+
+    display: none;
+
+}
+
+#CarDealer_senderName,
+
+#CarDealer_senderEmail,
+
+#CarDealer_sendermessage
+
+{
+
+    max-width: 300px;
+
+    font-size: 14px;
+
+}
+
+#CarDealer_sendermessage
+
+{
+
+    width: 300px;
+
+}
+
+#CarDealer_sendMessage
+
+{
+
+    float: left;
+
+    height: 30px;
+
+    font-size: 13px;
+
+}
+
+#CarDealer_cancel
+
+{
+
+    background: gray;
+
+    height: 30px;
+
+    font-size: 13px;
+
+}
+
+#CarDealer_contactForm, .CarDealer_statusMessage, input[type="submit"], input[type="button"] {
+
+  -moz-border-radius: 5px;
+
+  -webkit-border-radius: 5px;  
+
+  border-radius: 5px;
+
+  font-size: 14px;
+
+}
+
+#CarDealer_contactForm, .CarDealer_statusMessage {
+
+  color: #666;
+
+  background-color: #ebedf2;
+
+  background: -webkit-gradient( linear, left bottom, left top, color-stop(0,#dfe1e5), color-stop(1, #ebedf2) );
+
+  background: -moz-linear-gradient( center bottom, #dfe1e5 0%, #ebedf2 100% );  
+
+  border: 1px solid #aaa;
+
+  -moz-box-shadow: 0 0 1em rgba(0, 0, 0, .5);
+
+  -webkit-box-shadow: 0 0 1em rgba(0, 0, 0, .5);
+
+  box-shadow: 0 0 1em rgba(0, 0, 0, .5);
+
+  opacity: .95;
+
+}
+
+/* The form dimensions */
+
+#CarDealer_contactForm {
+
+  width: 37em;
+
+  height: 25.5em;
+
+  padding: 0 1.5em 1.5em 1.5em;
+
+  margin: 0 auto;
+
+  /* display:  none; */
+
+}
+
+/* Position the form in the middle of the window (if JavaScript is enabled) */
+
+#CarDealer_contactForm.CarDealer_positioned {
+
+  z-index: 999;
+
+  position: fixed;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
+}
+
+/* Dimensions and position of the status messages */
+
+.CarDealer_statusMessage {
+
+  margin: auto;
+
+  width: 30em;
+
+  height: 6em;
+
+  padding: 1.5em;
+
+  position: fixed;
+
+  top: 0;
+
+  bottom: 0;
+
+  left: 0;
+
+  right: 0;
+
+  font-size: 20px;
+
+}
+
+.CarDealer_statusMessage p {
+
+  text-align: center;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+/* The header at the top of the form */
+
+#CarDealer_contactForm h2 {
+
+  font-size: 1.5em;
+
+  font-style: italic;
+
+  letter-spacing: .05em;
+
+  margin: 0 0 1em -.75em;
+
+  padding: .6em;
+
+  width: 18.5em;  
+
+  color: #aeb6aa;
+
+  border-bottom: 1px solid #aaa;
+
+  -moz-border-radius: 10px 10px 0 0;
+
+  -webkit-border-radius: 10px 10px 0 0;  
+
+  border-radius: 10px 10px 0 0;
+
+}
+
+#CarDealer_contactForm ul {
+
+  list-style: none;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+#CarDealer_contactForm ul li {
+
+  margin: .9em 0 0 0;
+
+  padding: 0;
+
+}
+
+#CarDealer_contactForm input, #CarDealer_contactForm label {
+
+  line-height: 1em;
+
+  padding: 5px;
+
+}
+
+/* The field labels */
+
+label.CarDealer_contact {
+
+  display: block;
+
+  float: left;
+
+  clear: left;
+
+  text-align: right;
+
+  width: 28%;
+
+  padding: .4em 0 0 0;
+
+  margin: .15em .5em 0 0;
+
+  font-weight: bold;
+
+}
+
+/* The fields */
+
+input#CarDealer_senderEmail,
+
+input#CarDealer_senderName,  
+
+textarea#CarDealer_sendermessage {
+
+  display: block;
+
+  margin: 0;
+
+  padding: .4em;
+
+  width: 67%;
+
+  font-family: "Georgia", serif;
+
+  font-size: 1em;
+
+  border: 1px solid #aaa;
+
+  -moz-border-radius: 5px;
+
+  -webkit-border-radius: 5px;    
+
+  border-radius: 5px;
+
+  height: 40px;
+
+  background: #fff;
+
+}
+
+textarea#CarDealer_sendermessage {
+
+  height: 7em;
+
+  line-height: 1.5em;
+
+  resize: none;
+
+}
+
+#CarDealer_contactForm *:focus {
+
+  border: 1px solid #66f;
+
+  outline: none;
+
+  box-shadow: none;
+
+  -moz-box-shadow: none;
+
+  -webkit-box-shadow: none;
+
+}
+
+#CarDealer_sendMessage, #CarDealer_cancel
+
+{
+
+  width: 130px;
+
+  padding: 10px;
+
+  margin-right: 10px; 
+
+}   
+
+@media only screen and (max-width: 800px)
+
+{
+
+    #CarDealer_contactForm {
+
+      max-width: 24em !important;
+
+      height: 23.5em;
+
+      padding: 0 1.5em 1.5em 1.5em;
+
+      margin: 0 auto;
+
+    }
+
+    #CarDealer_senderName,
+
+    #CarDealer_senderEmail,
+
+    #CarDealer_sendermessage
+
+    {
+
+        max-width: 200px;
+
+        font-size: 13px;
+
+    }
+
+    #CarDealer_sendermessage
+
+    {
+
+        width: 200px;
+
+    }
+
+    #CarDealer_contactForm h2 {
+
+      font-size: 1.2em;
+
+      font-style: italic;
+
+      letter-spacing: .05em;
+
+      margin: 0 0 1em -.75em;
+
+      padding: .4em;
+
+      width: 18.5em;  
+
+      color: #aeb6aa;
+
+      border-bottom: 1px solid #aaa;
+
+      -moz-border-radius: 10px 10px 0 0;
+
+      -webkit-border-radius: 10px 10px 0 0;  
+
+      border-radius: 10px 10px 0 0;
+
+    }
+
+}
